@@ -1,0 +1,57 @@
+---
+title: "The Bangladesh Currency Order, 1972 (President's Order)"
+identifier: "PRESIDENT'S ORDER NO. 84 OF 1972"
+bdlaws_id: 406
+type: order
+jurisdiction: bd
+language: en
+date: 1972-07-24
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-406.html"
+retrieved: 2026-10-12
+---
+
+# The Bangladesh Currency Order, 1972 (President's Order)
+
+(PRESIDENT'S ORDER NO. 84 OF 1972)
+
+**WHEREAS it is expedient to provide for the issue and putting into circulation of one Taka note <sup>1</sup>[and two Taka note] by the Government of the People’s Republic of Bangladesh;**
+
+NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, the President is pleased to make the following Order:-
+
+#### 1.
+
+1. (1) This Order may be called the Bangladesh Currency Order, 1972.
+
+(2) It extends to the whole of Bangladesh.
+
+(3) It shall come into force at once and shall be deemed to have taken effect on the 26th day of March, 1971.
+
+#### 2.
+
+2. In this Order, unless there is anything repugnant in the subject or context,-
+
+<sup>2</sup>[(a) “Bangladesh one Taka note” and “Bangladesh two Taka note” shall respectively mean a one Taka note and a two Taka note issued by the Government.]
+
+(b) “Government” means the Government of the People's Republic of Bangladesh.
+
+#### 3.
+
+<sup>3</sup>[3. Notwithstanding anything contained in any other law for the time being in force, the Government may issue Bangladesh one Taka notes and Bangladesh two Taka notes and any such notes shall be current in Bangladesh in the same manner and to the same extent and as fully as Taka coin called Government Taka issued under the provisions of the Bangladesh Coinage Order, 1972 (P.O. No. 83 of 1972), and shall be legal tender in Bangladesh for the payment of any amount until such time as they are called in by the Government under the provisions of Article 8 of that Order.]
+
+#### 4.
+
+4. The provisions of Sections 489A, 489B, 489C and 489D of the <sup>4</sup>[Penal Code (Act XLV of 1860)] shall apply in respect of notes issued under this Order as they apply in respect of currency notes and bank notes.
+
+#### 5.
+
+5. The Pakistan Currency Act, 1950 (Act No. XXIX of 1950) is hereby repealed.
+
+---
+
+## Footnotes
+
+- <sup>1</sup> The words “and two Taka note” were inserted by section 2 of the Bangladesh Currency (Amendment) Act, 1989 (Act No. II of 1989)
+- <sup>2</sup> Clause (a) was substituted by section 3 of the Bangladesh Currency (Amendment) Act, 1989 (Act No. II of 1989)
+- <sup>3</sup> Article 3 was substituted by section 4 of The Bangladesh Currency (Amendment) Act, 1989 (Act No. II of 1989)
+- <sup>4</sup> The words, brackets and figure “Penal Code (XLV of 1860)” were substituted for the words “Pakistan Penal Code as adapted in Bangladesh” by section 5 of The Bangladesh Currency (Amendment) Act, 1989 (Act No. II of 1989)

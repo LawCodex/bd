@@ -1,0 +1,70 @@
+---
+title: "The Islamic Development Bank Act, 1975"
+identifier: "ACT NO. XXVIII OF 1975"
+bdlaws_id: 494
+type: act
+jurisdiction: bd
+language: en
+date: 1975-07-18
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-494.html"
+retrieved: 2026-10-12
+---
+
+# The Islamic Development Bank Act, 1975
+
+(ACT NO. XXVIII OF 1975)
+
+**An Act to provide for the implementation of the Agreement establishing the Islamic Development Bank.**
+
+WHEREAS the People's Republic of Bangladesh is a signatory to the Agreement establishing the Islamic Development Bank, and it is expedient to provide for the implementation of that Agreement and for carrying out the obligations of the People's Republic of Bangladesh as a founder member of that Bank and for matters connected therewith;
+
+It is hereby enacted as follows:-
+
+#### 1. Short title and commencement
+
+1. (1) This Act may be called the Islamic Development Bank Act, 1975.
+
+(2) It shall be deemed to have come into force on the 29th day of January, 1975.
+
+#### 2. Definitions
+
+2. In this Act, unless there is anything repugnant in the subject or context,-
+
+(a) “Agreement” means the Agreement establishing the Islamic Development Bank;
+
+(b) “Bank” means the Islamic Development Bank established by the Agreement.
+
+#### 3. Financial provisions
+
+3. (1) There shall be paid out of the Consolidated Fund all such sums as may, from time to time, be required for the purpose of making payments on behalf of the People's Republic of Bangladesh under any provision of the Agreement.
+
+(2) Any sums received by the People's Republic of Bangladesh from the Bank in pursuance of the Agreement shall be paid into the Consolidated Fund.
+
+#### 4. Certain provisions of the Agreement to
+
+4. (1) Notwithstanding anything to the contrary contained in any other law, the provisions of Chapter VII of the Agreement set out in the Schedule shall have the force of law in Bangladesh:
+
+Provided that nothing in Article 59 of the Agreement shall be construed as-
+
+(a) entitling the Bank to import into Bangladesh goods free of any duty of customs without any restriction on their subsequent sale therein;
+
+(b) conferring on the Bank any exemption from duties or taxes which form part of the price of goods sold; or
+
+(c) conferring on the Bank any exemption from duties or taxes which are in fact no more than charges for services rendered.
+
+(2) The Government may, by notification in the official Gazette, amend the Schedule in conformity with any amendment, which may hereafter be duly made and adopted, of the provisions of the Agreement set out therein.
+
+#### 5. Power to take steps to discharge obligations and liabilities under the Agreement
+
+5. The Government may take all such steps and make all such arrangements as may be considered necessary to enable it to discharge its financial obligations and other liabilities under the Agreement.
+
+#### 6. Power to make rules
+
+6. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Act.
+
+#### 7. Repeal and savings
+
+7. (1) The Islamic Development Bank Ordinance, 1975 (Ord. I of 1975), is hereby repealed.
+
+(2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.

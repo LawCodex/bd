@@ -1,0 +1,34 @@
+---
+title: "The Appropriation (Supplementary) Ordinance, 1977"
+identifier: "Ordinance NO. XXII OF 1977"
+bdlaws_id: 545
+type: ordinance
+jurisdiction: bd
+language: en
+date: 1977-06-27
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-545.html"
+retrieved: 2026-10-12
+---
+
+# The Appropriation (Supplementary) Ordinance, 1977
+
+(Ordinance NO. XXII OF 1977)
+
+**An Ordinance to authorise expenditure of certain further sums from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1977.**
+
+WHEREAS it is expedient to authorise expenditure of certain further sums from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1977;
+
+NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and the 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulgate the following Ordinance:-
+
+#### 1. Short title
+
+1. This Ordinance may be called the Appropriation (Supplementary) Ordinance, 1977.
+
+#### 2. Issue of Taka 124,38,51,000 out of the Consolidated Fund for the year 1976-77
+
+2. There may be paid and applied from and out of the Consolidated Fund sums not exceeding those specified in column 3 of the Schedule amounting in the aggregate to the sum of Taka one hundred twenty-four crores , thirty-eight lakhs and fifty-one thousand towards defraying the several charges which will come in course of payment during the financial year ending on the thirtieth day of June, 1977, in respect of the services and purposes specified in column 2 of the Schedule.
+
+#### 3. Appropriation
+
+3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Ordinance shall be appropriated for the services and purposes expressed in the Schedule in relation to the financial year ending on the thirtieth day of June, 1977.

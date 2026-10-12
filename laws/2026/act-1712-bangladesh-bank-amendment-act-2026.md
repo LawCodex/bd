@@ -1,0 +1,32 @@
+---
+title: "Bangladesh Bank (Amendment) Act, 2026"
+identifier: "২০২৬ সনের ৮৩ নং আইন"
+bdlaws_id: 1712
+type: act
+jurisdiction: bd
+language: en
+date: 2026-04-10
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-1712.html"
+retrieved: 2026-10-12
+---
+
+# Bangladesh Bank (Amendment) Act, 2026
+
+(২০২৬ সনের ৮৩ নং আইন)
+
+**Bangladesh Bank Order, 1972 এর অধিকতর সংশোধনকল্পে প্রণীত আইন**
+
+যেহেতু নিম্নবর্ণিত উদ্দেশ্য পূরণকল্পে Bangladesh Bank Order, 1972 (President's Order No. 127 of 1972) এর অধিকতর সংশোধন করা সমীচীন ও প্রয়োজনীয়;
+
+সেহেতু এতদ্দ্বারা নিম্নরূপ আইন করা হইল:—
+
+#### ১. সংক্ষিপ্ত শিরোনাম ও প্রবর্তন
+
+১। (১) এই আইন Bangladesh Bank (Amendment) Act, 2026 নামে অভিহিত হইবে।
+
+(২) ইহা অবিলম্বে কার্যকর হইবে।
+
+#### ২. 127 of 1972 এর Article 10 এর সংশোধন
+
+২। Bangladesh Bank Order, 1972 (President's Order No. 127 of 1972), এর Article 10 এর clause (5) এর প্রান্তস্থিত কোলন “:” চিহ্নের পরিবর্তে ফুলস্টপ "." চিহ্ন প্রতিস্থাপিত হইবে এবং Proviso বিলুপ্ত হইবে।

@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
-"""Fetch the Laws of Bangladesh (http://bdlaws.minlaw.gov.bd) chronological index and the
-full-text page (act-details-<id>.html) of every law not marked [Repealed].
+"""Fetch the Laws of Bangladesh (http://bdlaws.minlaw.gov.bd) chronological index, the
+full-text page (act-details-<id>.html) of every law not marked [Repealed], and its summary page
+(act-<id>.html), which links schedules/appendices published as separate PDF files.
 
 Pages are served as UTF-16; they are cached as-is under RAW (default ../../_raw/bd).
 Output: RAW/index.json.
@@ -65,6 +66,10 @@ def main():
         for i, _ in enumerate(ex.map(lambda r: get(f"{BASE}/act-details-{r['id']}.html", f"{RAW}/act/{r['id']}.html"), todo)):
             if i % 50 == 0:
                 print(i, len(todo), file=sys.stderr)
+        # summary pages (table of contents) carry the links to schedule/appendix PDFs
+        for i, _ in enumerate(ex.map(lambda r: get(f"{BASE}/act-{r['id']}.html", f"{RAW}/summary/{r['id']}.html"), todo)):
+            if i % 50 == 0:
+                print("summary", i, len(todo), file=sys.stderr)
 
 
 if __name__ == "__main__":

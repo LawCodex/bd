@@ -1,0 +1,44 @@
+---
+title: "The Bangladesh Railway Board (Repeal) Ordinance, 1983"
+identifier: "Ordinance NO. XXIV OF 1983"
+bdlaws_id: 641
+type: ordinance
+jurisdiction: bd
+language: en
+date: 1983-05-30
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-641.html"
+retrieved: 2026-10-12
+---
+
+# The Bangladesh Railway Board (Repeal) Ordinance, 1983
+
+(Ordinance NO. XXIV OF 1983)
+
+**An Ordinance to repeal the Bangladesh Railway Board Ordinance, 1976.**
+
+WHEREAS it is expedient to repeal the Bangladesh Railway Board Ordinance, 1976 (XLI of 1976), and to provide for matters ancillary thereto;
+
+NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers enabling him in that behalf, the Chief Martial Law Administrator is pleased to make and promulgate the following Ordinance:-
+
+#### 1. Short title
+
+1. This Ordinance may be called the Bangladesh Railway Board (Repeal) Ordinance, 1983.
+
+#### 2. Repeal of Ord. No. XLI of 1976
+
+2. (1) The Bangladesh Railway Board Ordinance, 1976 (XLI of 1976), hereinafter referred to as the said Ordinance, is hereby repealed.
+
+(2) Upon the repeal of the said Ordinance,-
+
+(a) the Bangladesh Railway Board, hereinafter referred to as the said Board, constituted under the said Ordinance shall stand dissolved;
+
+(b) all assets, rights, powers, authorities and privileges and all property, movable and immovable, cash and bank balances, reserve funds, investments and all other rights and interests in, or arising out of, such property, and all books of accounts, registers, records and all other documents of the said Board shall stand transferred to, and vest in, the Government;
+
+(c) all debts and liabilities incurred, all obligations undertaken, all contracts entered into and all agreements made by or with the said Board before such repeal shall be deemed to have been incurred, undertaken, entered into or made by or with the Government;
+
+(d) all suits and other legal proceedings instituted by or against the said Board before such repeal shall be deemed to be suits and proceedings by or against the Government and shall be proceeded or otherwise dealt with accordingly;
+
+(e) all officers and other employees of the said Board shall stand transferred to and become officers and employees of the Government and shall hold office or service under the Government on the same terms and conditions as were applicable to them immediately before such repeal and shall continue to do so until their terms and conditions are duly altered by the Government;
+
+(f) all Provident Funds established, maintained or managed by the said Board and existing immediately before such repeal shall continue to exist and the subscriptions and contributions thereto shall be credited to the Government and the Government shall be liable to make payment to the officers and employees concerned out of those Funds.

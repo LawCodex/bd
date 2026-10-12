@@ -204,11 +204,26 @@ def convert(path, rec):
     for blk in out:
         md.append(blk)
     body_md = "\n\n".join(md)
+    body_md = body_md.replace("****", "")
     if notes:
         body_md += "\n\n---\n\n" + ("## Footnotes" if lang == "en" else "## পাদটীকা") + "\n\n"
         body_md += "\n".join(f"- <sup>{n}</sup> {t}" for n, t in notes)
     return {"title": title_plain, "title_md": title_md, "identifier": ident, "date": date, "lang": lang,
             "body": body_md.strip() + "\n", "sections": nsec}
+
+
+def attachments(aid):
+    p = f"{RAW}/summary/{aid}.html"
+    if not os.path.exists(p):
+        return []
+    s = decode(open(p, "rb").read())
+    out = []
+    for m in re.finditer(r'<a[^>]+href="(/upload/[^"]+)"[^>]*>(.*?)</a>', s, re.S):
+        u = BASE + m.group(1)
+        t = norm(html.unescape(re.sub(r"<[^>]+>", " ", m.group(2))))
+        if u not in [x[0] for x in out]:
+            out.append((u, t))
+    return out
 
 
 def law_type(ident, title, lang):
@@ -253,7 +268,15 @@ def main():
         fm += [f"type: {typ}", "jurisdiction: bd", f"language: {d['lang']}"]
         if d["date"]:
             fm.append(f"date: {d['date']}")
-        fm.append("status: in_force")
+        lapsed = re.search(r"কার্যকরতা লোপ পাইয়াছে|has ceased to have effect", d["body"][:3000])
+        fm.append("status: " + ("repealed" if lapsed else "in_force"))
+        if lapsed:
+            fm.append('status_note: "lapsed (Constitution, art. 93(2)), as noted by the source"')
+        atts = attachments(rec["id"])
+        if atts:
+            fm.append("attachments:")
+            for u, t in atts:
+                fm.append(f"  - {q(u)}")
         fm.append(f"source: {q(f'{BASE}/act-details-{rec[chr(105)+chr(100)]}.html')}")
         fm.append(f"retrieved: {RETRIEVED}")
         fm.append("---")
@@ -261,6 +284,10 @@ def main():
         if d["identifier"]:
             md += f"({d['identifier']})\n\n"
         md += d["body"]
+        if atts:
+            md += "\n---\n\n" + ("Schedules / appendices published as separate files by the source:" if d["lang"] == "en"
+                                  else "উৎসে পৃথক ফাইল হিসাবে প্রকাশিত তফসিল / পরিশিষ্ট:") + "\n\n"
+            md += "\n".join(f"- [{t or u.rsplit('/', 1)[-1]}]({u})" for u, t in atts) + "\n"
         path = os.path.join(REPO, rel)
         os.makedirs(os.path.dirname(path), exist_ok=True)
         with open(path, "w", encoding="utf-8", newline="\n") as f:

@@ -1,0 +1,77 @@
+---
+title: "The Private Fisheries Protection Act, 1889"
+identifier: "ACT NO. II OF 1889"
+bdlaws_id: 61
+type: act
+jurisdiction: bd
+language: en
+date: 1889-06-26
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-61.html"
+retrieved: 2026-10-12
+---
+
+# The Private Fisheries Protection Act, 1889
+
+(ACT NO. II OF 1889)
+
+**<sup>1</sup>♣An Act for the protection of the right of fishing in private waters.**
+
+WHEREAS it is expedient to provide for the protection of private rights of fishery; It is hereby enacted as follows:-
+
+#### 1. Short title, and extent
+
+1. (1) This Act may be called the Private Fisheries Protection Act, 1889.
+
+(2) It extends to the whole of <sup>2</sup>[Bangladesh].
+
+#### 2. Interpretation clause
+
+2. In this Act–
+
+“fish” includes shell-fish and turtles;
+
+“fixed engine” means any net, cage, trap or other contrivance for taking fish fixed in the soil or made stationary in any other way;
+
+“private waters” means waters-
+
+(a) which are the exclusive property of any person; or
+
+(b) in which any person has an exclusive right of fishery, and in which fish are not confined but have means of ingress or egress.
+
+#### 3. Penalties
+
+3. Any person who-
+
+(a) fishes in any private waters, not having a right to fish therein,
+
+(b) erects, places, maintains or uses any fixed engine in private waters, or puts, or knowingly permits to be put, therein any matter for the purpose of catching or destroying fish without the permission of the person to whom the right of fishery therein belongs;
+
+shall be guilty of an offence, and shall be punished for a first offence with a fine not exceeding fifty Taka.
+
+and for a subsequent offence with imprisonment which may be simple or rigorous, for a term not exceeding one month or with a fine not exceeding two hundred Taka, or both:
+
+Provided that nothing herein contained shall apply to acts done by any person in the exercise of a bona fide claim of right, or shall prevent any person from angling with a rod and line or with a line only in any portion of a navigable river.
+
+#### 4. Forfeiture of fixed engine
+
+4. (1) Any fixed engine erected, placed, maintained or used in contravention of the last preceding section, and any fish taken by means of such engine, or otherwise in contravention of this Act, shall be forfeited.
+
+#### Removal of fixed engine
+
+(2) And such fixed engine may be removed or taken possession of by the Magistrate of the district, or such person as he empowers in this behalf.
+
+#### 5. Entry upon the land of another or upon private waters with intent to commit an offence
+
+5. Whoever enters upon land in the possession of another or upon private waters, with intent to commit any of the offences specified in section 3, shall be punished with a fine not exceeding fifty Taka.
+
+#### 6. Offences under this Act considered “cognizable offences”
+
+6. Offences committed, under this Act shall be considered to be “cognizable offences” as defined in the Code of Criminal Procedure, 1898.
+
+---
+
+## Footnotes
+
+- <sup>1</sup> Throughout this Act, except otherwise provided, the word “Taka” was substituted, for the word “rupees” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+- <sup>2</sup> The word “Bangladesh” was substituted, for the words “East Pakistan” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act VIII of 1973)

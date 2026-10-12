@@ -1,0 +1,151 @@
+---
+title: "The Charitable Endowments Act, 1890"
+identifier: "ACT NO. VI OF 1890"
+bdlaws_id: 63
+type: act
+jurisdiction: bd
+language: en
+date: 1890-03-07
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-63.html"
+retrieved: 2026-10-12
+---
+
+# The Charitable Endowments Act, 1890
+
+(ACT NO. VI OF 1890)
+
+**<sup>1</sup>♣An Act to provide for the Vesting and Administration of Property held in trust for charitable purposes.**
+
+WHEREAS it is expedient to provide for the vesting and administration of property held in trust for charitable purposes; It is hereby enacted as follows:-
+
+#### 1. Title, extent and commencement
+
+1. (1) This Act may be called the Charitable Endowments Act, 1890.
+
+(2) It extends to the whole of Bangladesh; and
+
+(3) It shall come into force on the first day of October, 1890.
+
+#### 2. Definition
+
+2. In this Act, “charitable purpose” includes relief of the poor, education, medical relief and the advancement of any other object of general public utility, but does not include a purpose which relates exclusively to religious teaching or worship.
+
+#### 3. Appointment and incorporation of Treasurer of Charitable Endowments
+
+3. (1) The Government may appoint an officer of the Government by the name of his office to be Treasurer of Charitable Endowments for Bangladesh, <sup>2</sup>[\* \* \*].
+
+(2) Such Treasurer shall, for the purposes of taking, holding and transferring moveable or immoveable property under the authority of this Act, be a corporation sole by the name of the Treasurer of Charitable Endowments for Bangladesh <sup>3</sup>[and] shall have perpetual succession and a corporate seal, and may sue and be sued in his corporate name.
+
+#### 3A. [Omitted]
+
+3A. [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]
+
+#### 4. Orders vesting property in Treasurer
+
+4. (1) Where any property is held or is to be applied in trust for a charitable purpose, the Government, if it thinks fit, may, on application made as hereinafter mentioned, and subject to the other provisions of this section, order, by notification in the official Gazette, that the property be vested in the Treasurer of Charitable Endowments on such terms as to the application of the property or the income thereof as may be agreed on between the Government and the person or persons making the application, and the property shall thereupon so vest accordingly.
+
+(2) When any property has vested under this section in a Treasurer of Charitable Endowments, he is entitled to all documents of title relating thereto.
+
+(3) [Repealed by the Government of India (Adaptation of Indian Laws Order, 1937.]
+
+(4) An order under this section vesting property in the Treasurer of Charitable Endowments shall not require or be deemed to require him to administer the property, or impose or be deemed to impose upon him the duty of a trustee with respect to the administration thereof.
+
+#### 5. Schemes for administration of property vested in the Treasurer
+
+5. (1) On application made as hereinafter mentioned, and with the concurrence of the person or persons making the application, the Government, if it thinks fit, may settle a scheme for the administration of any property which has been or is to be vested in the Treasurer of Charitable endowments, and may in such scheme appoint, by name or office, a person or persons, not being or including such Treasurer, to administer the property.
+
+(2) On application made as hereinafter mentioned, and with the concurrence of the person or persons making the application, the Government may, if it thinks fit, modify any scheme settled under this section or substitute another scheme in its stead.
+
+(3) A scheme settled, modified or substituted under this section shall, subject to the other provisions of this section, come into operation on a day to be appointed by the Government in this behalf, and shall remain in force so long as the property to which it relates continues to be vested in the Treasurer of Charitable Endowments or until it has been modified or another such scheme has been substituted in its stead.
+
+(4) Such a scheme, when it comes into operation, shall supersede any decree or direction relating to the subject-matter thereof in so far as such decree or direction is in any way repugnant thereto, and its validity shall not be questioned in any Court, nor shall any Court give, in contravention of the provisions of the scheme or in any way contrary or in addition thereto, a decree or direction regarding the administration of the property to which the scheme relates:
+
+Provided that nothing in this sub-section shall be construed as precluding a Court from inquiring whether the Government by which a scheme was made was the Government.
+
+(5) In the settlement of such a scheme effect shall be given to the wishes of the author of the trust so far as they can be ascertained, and, in the opinion of the Government, effect can reasonably be given to them.
+
+(6) Where a scheme has been settled under this section for the administration of property not already vested in the Treasurer of Charitable Endowments, it shall not come into operation until the property has become so vested:
+
+Provided that the powers of the Government under this section for the settlement, modification or substitution of scheme for the administration of any property shall, in respect of any waqf property in <sup>4</sup>[\* \* \*], be exercised, subject to the approval of the Government, by the Administrator of Waqfs appointed under the Waqfs <sup>5</sup>[\* \* \*] Ordinance, 1962.
+
+#### 6. Mode of applying for vesting orders and schemes
+
+6. (1) The application referred to in the two last foregoing sections must be made,-
+
+(a) if the property is already held in trust for a charitable purpose, then by the person acting in the administration of the trust, or, where there are more persons than one so acting, then by those persons or a majority of them; and
+
+(b) if the property is to be applied in trust for such a purpose, then by the person or persons proposing so to apply it.
+
+(2) For the purposes of this section the executor or administrator of a deceased trustee of property held in trust for a charitable purpose shall be deemed to be a person acting in the administration of the trust.
+
+<sup>6</sup>[\* \* \*]
+
+#### 7. [Repealed]
+
+7. [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]
+
+#### 8. Bare trusteeship of Treasurer
+
+8. (1) Subject to the provisions of this Act, the Treasurer of Charitable Endowments shall not, as such Treasurer, act in the administration of any trust whereof any of the property is for the time being vested in him under this Act.
+
+(2) Such Treasurer shall keep a separate account of each property for the time being so vested in so far as the property consists of securities for money, and shall apply the property or the income thereof in accordance with the provision made in that behalf in the vesting order under section 4 or in the scheme, if any, under section 5, or in both those documents.
+
+(3) In the case of any property so vested other than securities for money, such Treasurer shall, subject to any special order which he may receive from the authority by whose order the property became vested in him, permit the persons acting in the administration of the trust to have the possession, management and control of the property, and the application of the income thereof, as if the property had been vested in them.
+
+#### 9. Annual publication of list of properties vested in Treasurer
+
+9. The Treasurer of Charitable Endowments shall cause to be published annually in the official Gazette, at such time as the Government may direct, a list of all properties for the time being vested in him under this Act and an abstract of all accounts kept by him under sub-section (2) of the last foregoing section.
+
+#### 10. Limitation of functions and powers of Treasurer
+
+10. (1) The Treasurer of Charitable Endowments shall always be a sole trustee, and shall not, as such Treasurer, take or hold any property otherwise than under the provisions of this Act, or subject to those provisions, transfer any property vested in him except in obedience to a decree divesting him of the property, or in compliance with a direction in that behalf issuing from the authority by whose order the property became vested in him.
+
+(2) Such a direction may require the Treasurer to sell or otherwise dispose of any property vested in him, and, with the sanction of the authority issuing the direction, to invest the proceeds of the sale or other disposal of the property in any such security for money as is specified in the direction, or in the purchase of immoveable property.
+
+(3) When the Treasurer of Charitable Endowments is divested, by a direction of the Government under this section, of any property, it shall vest in the person or persons acting in the administration thereof and be held by him or them on the same trusts as those on which it was held by such Treasurer.
+
+#### 11. Provisions for continuance of office of Treasurer in certain contingencies
+
+11. If the office held by an officer of the Government who has been appointed to be the Treasurer of Charitable Endowments is abolished or its name is changed, the Government may appoint the same or another officer of the Government by the name of his office to be such Treasurer, and thereupon the holder of the latter office shall be deemed for the purposes of this Act to be the successor in office of the holder of the former office.
+
+#### 12. [Omitted]
+
+12. [Omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).]
+
+#### 13. Power to frame forms and make rules
+
+13. [Repealed by the Government of India (Adaptation of Indian Laws) Order, 1937.]
+
+(2) The Government may make rules consistent with this Act for-
+
+(a) prescribing the fees to be paid to the Government in respect of any property vested under this Act in the Treasurer of Charitable Endowments;
+
+(b) regulating the cases and the mode in which schemes or any modification thereof are to be published before they are settled or made under section 5;
+
+(c) prescribing the forms in which accounts are to be kept by the Treasurer of Charitable Endowments and the mode in which such accounts are to be audited; and
+
+(d) generally carrying into effect the purposes of this Act.
+
+#### 14. Indemnity to Government and Treasurer
+
+14. No suit shall be instituted against the Government in respect of anything done or purporting to be done under this Act, or in respect of any alleged neglect or omission to perform any duty devolving on the Government under this Act, or in respect of the exercise of, or the failure to exercise, any power conferred by this Act on the Government, nor shall any suit be instituted against the Treasurer of Charitable Endowments except for divesting him of property on the ground of its not being subject to a trust for a charitable purpose, or for making him chargeable with or accountable for the loss or misapplication of any property vested in him, or the income thereof, where the loss or misapplication has been occasioned by or through his wilful neglect or default.
+
+#### 15. Saving with respect to Advocate General and Official Trustee
+
+15. Nothing in this Act shall be construed to impair the operation of sections, 8, 9, 10 and 11 of Act No XVII of 1864 (an Act to constitute an Office of Official Trustee) respecting the vesting of property in trust for a charitable purpose in an Official Trustee.
+
+#### 16. [Repealed]
+
+16. [Repealed by section 2 and Schedule I of the Devolution Act, 1920 (Act No. XXXVIII of 1920).]
+
+---
+
+## Footnotes
+
+- <sup>1</sup> Throughout this Act, except otherwise provided, the words “Bangladesh”, “Government”, "the Treasurer" and "The Treasurer" were substituted, for the words “Pakistan”, “appropriate Government” or “Central Government” or “Provincial Government”, "a Treasurer" or "Treasurers" respectively by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+- <sup>2</sup> The words “and the Government of any Province may appoint an Officer of the Government by the name of his office to be Treasurer of Charitable Endowments for the Province” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+- <sup>3</sup> The word “and” was substituted, for the words and commas “or as the case may be, the Province, and, as such treasurer” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+- <sup>4</sup> The words “East Pakistan” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+- <sup>5</sup> The words “East Pakistan” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+- <sup>6</sup> Sub-section (3) was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)

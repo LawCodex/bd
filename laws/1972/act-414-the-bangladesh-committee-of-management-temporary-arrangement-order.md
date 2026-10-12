@@ -1,0 +1,92 @@
+---
+title: "The Bangladesh Committee of Management (Temporary Arrangement) Order, 1972 (P.O.)"
+identifier: "PRESIDENT'S ORDER NO. 117 OF 1972"
+bdlaws_id: 414
+type: order
+jurisdiction: bd
+language: en
+date: 1972-09-21
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-414.html"
+retrieved: 2026-10-12
+---
+
+# The Bangladesh Committee of Management (Temporary Arrangement) Order, 1972 (P.O.)
+
+(PRESIDENT'S ORDER NO. 117 OF 1972)
+
+**WHEREAS it is expedient, as a temporary arrangement, to provide for constitution of certain Committees of management <sup>1</sup>[or appointment of Administrator] with a view to providing for proper functioning and where necessary for reconstitution of various institutions constituted prior to independence;**
+
+NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, read with the Provisional Constitution of Bangladesh Order, 1972, and in exercise of all powers enabling him in that behalf, the President is pleased to make the following Order:-
+
+#### 1.
+
+1. (1) The Order may be called the Bangladesh Committee of Management (Temporary Arrangement) Order, 1972.
+
+(2) It extends to the whole of Bangladesh.
+
+(3) It shall come into force at once and shall be deemed to have taken effect on the first day of January, 1972.
+
+#### 2.
+
+2. In this Order, unless there is anything repugnant in the subject or context,ÔÇö
+
+(a) “committee of management” includes a Board, council or committee by whatever name called, in which the power of management of an institution is vested; (b) “institution” includes an institution, organisation or association whether educational, cultural, social or charitable, set up at any time before the 1st January, 1972 under any law for the time being in force or by any rule, bye-law <sup>2</sup>[, document, by whatever name called] or memorandum of association registered under the Societies Registration Act, 1860 (Act XXI of 1860), or not; and
+
+(c) “Government” means the Government of the People's Repu-blic of Bangladesh.
+
+#### 3.
+
+3. (1) Notwithstanding anything contained in any other law for the time being in force, or in any rule, regulation, bye-law, <sup>3</sup>[document] or in any memorandum or articles of association, or any deed or instrument, the Government may, if it is of opinion that it is necessary in the public interest, so to do, by an order in writing, dissolve a committee of management of an institution and appoint an Ad hoc Committee <sup>4</sup>[or Administrator] for that institution.
+
+(2) Upon the appointment of such Ad hoc Committee <sup>5</sup>[or Administrator], the Committee of management, shall stand dissolved.
+
+(3) An Ad hoc Committee appointed under clause (1) shall consist of such number of members as may be specified in the order and one such member may be appointed by the Government as Chairman of the Ad hoc Committee.
+
+#### 4.
+
+4. The members of the Ad hoc Committee shall, unless sooner replaced by another Ad hoc Committee, hold office until replaced by a Committee of management of the institution elected, nominated or appointed under the appropriate provision of law, rule, bye-law <sup>6</sup>[, document] or memorandum of association, as the case may be.
+
+#### 5.
+
+5. (1) On the dissolution of Committee of management, the Ad hoc Committee appointed under <sup>7</sup>[Article 3] shall exercise all powers, perform all functions and enjoy all privileges as were exercisable, performable or enjoyable by the Committee of management.
+
+(2) Notwithstanding anything to the contrary contained in any law, rule, bye-law, <sup>8</sup>[, document] memorandum of association, an Ad hoc Committee of an institution set up by any rule, bye-law <sup>9</sup>[, document] or memorandum of association whether registered under the Societies Registration Act, 1860 (Act XXI of 1860), or not, shall, with the approval of Government, have power to make necessary amendments in such rule, bye-law <sup>10</sup>[, document] or memorandum of association.
+
+#### 5A.
+
+<sup>11</sup>[5A. (1) Notwithstanding anything to the contrary contained in any law, rule, bye-law, document or memorandum of association, an Administrator, appointed under clause (1) of Article 3, shall-
+
+(a) be the chief executive of the institution for which he is appointed;
+
+(b) hold office for such period and on such terms and conditions, and exercise such powers, perform such functions and discharge such duties, as the Government may determine;
+
+(c) have power to make, with the approval of the Government, necessary amendment in any such rule, bye-law, document or memorandum of association, as the case may be.
+
+(2) The Government may appoint a committee consisting of not more than five members to assist and advice the Administrator in the exercise of his powers, performance of his functions and discharge of his duties.
+
+(3) It shall be the duty of an Administrator to take such steps as may be necessary for the reconstitution of the Committee of Management of the institution in accordance with the rule, bye-law, document or memorandum of association within such time as the Government may direct.]
+
+#### 6.
+
+6. An Ad hoc Committee appointed by or under the authority of the Government at any time after the 16th December, 1971 shall be deemed to have been appointed under this Order.
+
+#### 7.
+
+7. No Court shall entertain any suit or proceeding calling into question any action taken or deemed to have been taken under this Order.
+
+---
+
+## Footnotes
+
+- <sup>1</sup> The words “or appointment of Administrator” were inserted by section 2 of The Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>2</sup> The commas and words “, document, by whatever name called” were inserted by section 3 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>3</sup> The word “document” was inserted by section 4 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>4</sup> The words “or Administrator” were inserted by section 4 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>5</sup> The words “or Administrator” were inserted by section 4 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>6</sup> The comma and word “, document” were inserted by section 5 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>7</sup> The word and figure “Article 3” were substituted for the word and figure “Article 1” by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>8</sup> The comma and word “, document” were inserted by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>9</sup> The comma and word “, document” were inserted by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>10</sup> The comma and word “, document” were inserted by section 6 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)
+- <sup>11</sup> Article 5A was inserted by section 7 of the Bangladesh Committee of Management (Temporary Arrangement) (Amendment) Act, 1973 (Act No. XXIX of 1973)

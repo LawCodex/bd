@@ -1,0 +1,40 @@
+---
+title: "The Institute of Islamic Education and Research (Repeal) Ordinance, 1982"
+identifier: "Ordinance NO. XLIII OF 1982"
+bdlaws_id: 636
+type: ordinance
+jurisdiction: bd
+language: en
+date: 1982-11-02
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-636.html"
+retrieved: 2026-10-12
+---
+
+# The Institute of Islamic Education and Research (Repeal) Ordinance, 1982
+
+(Ordinance NO. XLIII OF 1982)
+
+**An Ordinance to repeal the Institute of Islamic Education and Research Act, 1980.**
+
+WHEREAS it is expedient to repeal the Institute of Islamic Education and Research Act, 1980 (XXXI of 1980);
+
+NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in exercise of all powers enabling him in that behalf, the Chief Martial Law Administrator is pleased to make and promulgate the following Ordinance:-
+
+#### 1. Short title
+
+1. This Ordinance may be called the Institute of Islamic Education and Research (Repeal) Ordinance, 1982.
+
+#### 2. Repeal and savings
+
+2. (1) The Institute of Islamic Education and Research Act, 1980 (XXXI of 1980), hereinafter referred to as the said Act, is hereby repealed.
+
+(2) Upon the repeal under sub-section (1),-
+
+(a) the Board of Governors constituted under the said Act shall stand dissolved;
+
+(b) all assets, rights, powers, authorities and privileges, and all properties, movable and immovable, cash and bank balances of the Institute established under the said Act, hereinafter referred to as the said Institute, and all other interests and rights in, or arising out of, such property, shall stand transferred to, and vested in, the Islamic University established under the Islamic University Act, 1980 (XXXVII of 1980), hereinafter referred to as the said University;
+
+(c) all debts, liabilities and obligations of whatever kind of the said Institute subsisting immediately before the repeal of the said Act shall be debts, liabilities and obligations of the said University;
+
+(d) services of all teachers, officers and employees of the said Institute shall, notwithstanding anything contained in any contract or agreement or in the terms and conditions of service, stand transferred to the said University and they shall be deemed to be teachers, officers and employees of the University appointed by it on the same terms and conditions of service as were applicable to them in the said Institute unless such terms and conditions are altered, not being to their disadvantage, by the said University

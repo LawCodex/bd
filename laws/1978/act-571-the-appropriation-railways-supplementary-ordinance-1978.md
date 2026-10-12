@@ -1,0 +1,34 @@
+---
+title: "The Appropriation (Railways Supplementary) Ordinance, 1978"
+identifier: "Ordinance NO. XXII OF 1978"
+bdlaws_id: 571
+type: ordinance
+jurisdiction: bd
+language: en
+date: 1978-06-30
+status: in_force
+source: "http://bdlaws.minlaw.gov.bd/act-details-571.html"
+retrieved: 2026-10-12
+---
+
+# The Appropriation (Railways Supplementary) Ordinance, 1978
+
+(Ordinance NO. XXII OF 1978)
+
+**An Ordinance to authorise expenditure of certain further sums in respect of Bangladesh Railways from and out of the consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1978.**
+
+WHEREAS it is expedient to authorise expenditure of certain further sums in respect of Bangladesh Railways from and out of the Consolidated Fund for the services of the financial year ending on the thirtieth day of June, 1978;
+
+NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975 and the 8th November, 1975, and in exercise of all powers enabling him in that behalf, the President is pleased to make and promulgate the following Ordinance:-
+
+#### 1. Short title
+
+1. This Ordinance may be called the Appropriation (Railways Supplementary) Ordinance, 1978.
+
+#### 2. Issue of Taka 14,84,60,000 out of the Consolidated Fund for the year 1977-78
+
+2. There may be paid and applied from and out of the Consolidated Fund sums not exceeding those specified in column 3 of the Schedule amounting in the aggregate to the sum of Taka fourteen crores eighty-four lakhs and sixty thousand towards defraying the several charges which will come in course of payment during the financial year ending on the thirtieth day of June, 1978, in respect of Bangladesh Railways for the services and purposes specified in column 2 of the Schedule.
+
+#### 3. Appropriation
+
+3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Ordinance shall be appropriated in respect of Bangladesh Railways for the services and purposes expressed in the Schedule in relation to the financial year ending on the thirtieth day of June, 1978.
