@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1913-04-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/98___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-98.html"
 retrieved: 2026-10-12
 ---
@@ -629,3 +631,9 @@ Provided that no appeal shall lie from any order made under section 22.
 - <sup>24</sup> Sub-section (3) was substituted, for the former sub-section (3) by the Schedule of the Laws (Amendment) Ordinance, 1982 (Ordinance No. XLI of 1982).
 - <sup>25</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>26</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/98___Schedule.pdf)

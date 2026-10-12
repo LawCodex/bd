@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-06-29
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/429___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-429.html"
 retrieved: 2026-10-12
 ---
@@ -30,3 +32,9 @@ WHEREAS it is expedient to provide for the withdrawal of certain sums from and o
 #### 3. Appropriation
 
 3. The sums authorised to be withdrawn from and out of the Consolidated Fund by this Act shall be appropriated for the services and purposes expressed in the Schedule in relation to the part of the said financial year.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/429___Schedule.pdf)

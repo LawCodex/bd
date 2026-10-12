@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1962-06-04
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/323___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-323.html"
 retrieved: 2026-10-12
 ---
@@ -333,3 +335,9 @@ Provided that no such sale or transfer shall take place at a rate below the mark
 - <sup>8</sup> The word “Central” was omitted by Article 3 and the Schedule of the Bangladesh Industrial Development Corporation Order, 1972 (President’s Order No. 39 of 1972)
 - <sup>9</sup> The word “Central” was omitted by Article 3 and the Schedule of the Bangladesh Industrial Development Corporation Order, 1972 (President’s Order No. 39 of 1972)
 - <sup>10</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/323___Schedule.pdf)

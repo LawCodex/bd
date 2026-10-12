@@ -75,7 +75,7 @@ They shall be open to the inspection of every person concerned desirous of exami
 
 14. [Penalties to landholders for not conforming to rules regarding village accounts.] Rep. by the Bengal Rent Act, 1859 (X of 1859).
 
-***15.****[Penalties to landholders for not conforming to rules regarding village accounts.] Rep. by the Bengal Rent**Act, 1859 (X of 1859).*
+***15.[Penalties to landholders for not conforming to rules regarding village accounts.] Rep. by the Bengal Rent**Act, 1859 (X of 1859).*
 
 #### 16. Appointment of Deputy Collector
 
@@ -89,7 +89,7 @@ They shall be open to the inspection of every person concerned desirous of exami
 
 18. [Monthly allowance how fixed, and susceptible of increase.] Rep. by the Repealing and Amending Act. 1914 (X of 1914).
 
-***19.****[Solemn declaration to be made by Deputy Collectors.] Rep. by the Indian Oaths Act, 1873 (X of 1873).*
+***19.[Solemn declaration to be made by Deputy Collectors.] Rep. by the Indian Oaths Act, 1873 (X of 1873).*
 
 #### 20. Subordination of Deputy Collectors
 

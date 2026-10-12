@@ -7,6 +7,9 @@ jurisdiction: bd
 language: en
 date: 1972-12-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-11-12-11-06-03-50860_39704.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-01-18-15-30-34-23.-গণপ্রতিনিধিত্ব-আদেশ,-১৯৭২.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-424.html"
 retrieved: 2026-10-12
 ---
@@ -2141,3 +2144,10 @@ Provided that in case of conflict between the Bangla and the English text, the E
 - <sup>280</sup> Article 93A was inserted by section 2 of the Representation of the People (Second Amendment) Ordinance, 1978 (Ordinance No. LII of 1978)
 - <sup>281</sup> Article 94 was substituted by section 43 of the Representation of the People (Amendment) Act, 2001 (Act No. LVII of 2001)
 - <sup>282</sup> Article 94A was inserted by section 29 of Representation of the People Order (Amendment) Act, 2009 (Act. No. XIII of 2009) (with effect from 19th August, 2008).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2023-11-12-11-06-03-50860_39704.pdf)
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2026-01-18-15-30-34-23.-গণপ্রতিনিধিত্ব-আদেশ,-১৯৭২.pdf)

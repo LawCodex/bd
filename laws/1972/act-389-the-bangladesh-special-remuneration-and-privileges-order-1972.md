@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-05-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/389___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-389.html"
 retrieved: 2026-10-12
 ---
@@ -77,3 +79,9 @@ NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, 
 
 - <sup>1</sup> The words “Members of the Council of Ministers” were substituted for the words “Ministers of the Cabinet” by section 3 of the Bangladesh Laws (Amendment) Act, 1975 (Act No. XIII of 1975)
 - <sup>2</sup> Clause (b) was substituted by section 3 of the Bangladesh Laws (Amendment) Act, 1975 (Act No. XIII of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/389___Schedule.pdf)

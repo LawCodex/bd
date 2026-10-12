@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1953-01-07
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/253___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-253.html"
 retrieved: 2026-10-12
 ---
@@ -521,3 +523,9 @@ If such person neglects or refuses to obey such order within the period fixed, t
 - <sup>2</sup> The word “Bengal” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
 - <sup>3</sup> The word “Bengal” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
 - <sup>4</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/253___Schedule.pdf)

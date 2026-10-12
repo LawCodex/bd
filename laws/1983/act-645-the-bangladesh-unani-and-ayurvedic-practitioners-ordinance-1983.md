@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1983-07-17
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/645___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-645.html"
 retrieved: 2026-10-12
 ---
@@ -454,3 +456,9 @@ Provided that the Board may, at any time on the application of the practitioner 
 (d) all officers and employees of the defunct Board in Bangladesh shall, notwithstanding anything contained in any contract or agreement or in the terms and conditions of service, stand transferred to the Board and shall be deemed to be officers and other employees of the Board appointed by it on the same terms and conditions of service as were applicable to them in the defunct Board unless such terms and conditions are altered, not being to their disadvantage, by the Board;
 
 (e) every Unani and Ayurvedic practitioner registered under the said Act shall be deemed to be registered under this Ordinance.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/645___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1984-02-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-32-57-২৬.-কৃষি-শ্রমিক-(ন্যূনতম-মজুরী)-অধ্যাদেশ,-১৯৮৪.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-666.html"
 retrieved: 2026-10-12
 ---
@@ -86,3 +88,9 @@ NOW, THEREFORE, in pursuance of the Proclamation of the 24th March, 1982, and in
 8. In the Village Courts Ordinance, 1976 (LXI of 1976), in the Schedule, in Part II, after item 5, the following new item shall be added, namely:-
 
 “6. Suit for recovery of wages and compensation payable to agricultural labourers.”
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-32-57-২৬.-কৃষি-শ্রমিক-(ন্যূনতম-মজুরী)-অধ্যাদেশ,-১৯৮৪.pdf)

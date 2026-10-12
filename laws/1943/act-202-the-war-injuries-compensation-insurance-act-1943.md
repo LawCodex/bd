@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1943-09-02
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/202___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-202.html"
 retrieved: 2026-10-12
 ---
@@ -268,3 +270,9 @@ Provided that no payment from the Fund shall be made in discharge of any liabili
 - <sup>5</sup> The words “twenty-five poisha” were substituted for the words “four annas” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>6</sup> The words “the Railway” were substituted for the words “any Government Railway” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>7</sup> Clause (d) was omitted by section 8 of the War Injuries (Compensation Insurance) (Amendment) Ordinance, 1944 (LIV of 1944)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/202___Schedule.pdf)

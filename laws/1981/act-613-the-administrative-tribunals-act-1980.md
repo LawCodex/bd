@@ -7,6 +7,9 @@ jurisdiction: bd
 language: en
 date: 1981-06-05
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/613___Schedule.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-30-30-২২.-প্রশাসনিক-ট্রাইব্যুনাল-আইন,-১৯৮০.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-613.html"
 retrieved: 2026-10-12
 ---
@@ -214,3 +217,10 @@ Provided further that, for the purpose of this section, the applicant shall be d
 - <sup>19</sup> The words and commas “shall, subject to the decisions and orders of the Appellate Division, be binding” were substituted for the words “shall be binding” by section 4 of the Administrative Tribunals (Amendment) Act, 1991 (Act No. XXIII of 1991)
 - <sup>20</sup> The words and comma “decisions and orders of the Appellate Division or of the Administrative Appellate Tribunal, as the case may be” were substituted for the words “decisions and orders of the Administrative Appellate Tribunal” by section 4 of the Administrative Tribunals (Amendment) Act, 1991 (Act No. XXIII of 1991)
 - <sup>21</sup> Section 10A was inserted by section 2 of the Administrative Tribunals (Amendment) Act, 1988 (Act No. XV of 1988)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/613___Schedule.pdf)
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-30-30-২২.-প্রশাসনিক-ট্রাইব্যুনাল-আইন,-১৯৮০.pdf)

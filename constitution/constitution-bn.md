@@ -5,6 +5,9 @@ type: constitution
 jurisdiction: bd
 language: bn
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2022-04-18-12-44-14-Schedule__957.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-10-14-17-10-42-Appendix.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-957.html"
 retrieved: 2026-10-12
 ---
@@ -1886,3 +1889,10 @@ retrieved: 2026-10-12
 - <sup>105</sup> সংবিধান (পঞ্চদশ সংশোধন) আইন, ২০১১ (২০১১ সনের ১৪ নং আইন)-এর ৫১(খ) ধারাবলে সন্নিবেশিত।
 - <sup>106</sup> "উপ-রাষ্ট্রপতি" কথার ব্যাখ্যাটি সংবিধান (দ্বাদশ সংশোধন) আইন, ১৯৯১ (১৯৯১ সনের ২৮ নং আইন) -এর ২৩ ধারাবলে বিলুপ্ত
 - <sup>107</sup> সংবিধান (পঞ্চদশ সংশোধন) আইন, ২০১১ (২০১১ সনের ১৪ নং আইন)-এর ৫১(গ) ধারাবলে বিলুপ্ত।
+
+---
+
+উৎসে পৃথক ফাইল হিসাবে প্রকাশিত তফসিল / পরিশিষ্ট:
+
+- [Schedule](http://bdlaws.minlaw.gov.bd/upload/act/2022-04-18-12-44-14-Schedule__957.pdf)
+- [Appendix](http://bdlaws.minlaw.gov.bd/upload/act/2020-10-14-17-10-42-Appendix.pdf)

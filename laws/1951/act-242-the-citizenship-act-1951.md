@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1951-04-13
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/242___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-242.html"
 retrieved: 2026-10-12
 ---
@@ -206,3 +208,9 @@ Provided that the Government may register any person as a citizen of Bangladesh 
 - <sup>3</sup> The words “father or mother” were substituted for the word “father” by section 2 of The Citizenship (Amendment) Act, 2009 (Act. No. XVII of 2009) (with effect from 31st December, 2008).
 - <sup>4</sup> The words “father or mother” were substituted for the word “father” by section 2 of The Citizenship (Amendment) Act, 2009 (Act. No. XVII of 2009) (with effect from 31st December, 2008).
 - <sup>5</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (P.O. No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/242___Schedule.pdf)

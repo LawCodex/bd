@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1982-05-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/620___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-620.html"
 retrieved: 2026-10-12
 ---
@@ -160,3 +162,9 @@ Provided that no such action shall be taken unless the registered medical practi
 - <sup>1</sup> The words and comma “medical consultation,” were omitted by section 2 of the Medical Practice and Private Clinics and Laboratories (Regulation) (Amendment) Ordinance, 1984 (Ordinance No. LXVIII of 1984)
 - <sup>2</sup> Section 3 was substituted by section 3 of the Medical Practice and Private Clinics and Laboratories (Regulation) (Amendment) Ordinance, 1984 (Ordinance No. LXVIII of 1984)
 - <sup>3</sup> The words “demanded by him or it” were substituted for the words “demanded under this Ordinance” by section 4 of the Medical Practice and Private Clinics and Laboratories (Regulation) (Amendment) Ordinance, 1984 (Ordinance No. LXVIII of 1984)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/620___Schedule.pdf)

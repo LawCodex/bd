@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1872-07-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/27___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-27.html"
 retrieved: 2026-10-12
 ---
@@ -725,3 +727,9 @@ and may from time to time vary or remit them either generally or in special case
 - <sup>14</sup> The word "Him" was substituted, for the words "them respectively" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>15</sup> The words "and the officers appointed under section 56" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>16</sup> The word "Him" was substituted, for the words "them respectively" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/27___Schedule.pdf)

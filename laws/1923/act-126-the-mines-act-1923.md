@@ -7,6 +7,9 @@ jurisdiction: bd
 language: en
 date: 1923-02-23
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/126___Schedule.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-05-28-10-37-01-৪.-খনি-আইন,-১৯২৩.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-126.html"
 retrieved: 2026-10-12
 ---
@@ -669,3 +672,10 @@ Provided further that no exemption from the operation of the provisions of secti
 - <sup>34</sup> Sub-section (3A) was inserted by section 7 of the Indian Mines (Amendment) Act, 1928 (Act No. XIII of 1928)
 - <sup>35</sup> The word "Bengali" was substituted, for the words "such vernacular or vernaculars as may be prescribed" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>36</sup> The word "Bengali" was substituted, for the words "such vernacular or vernaculars as may be prescribed" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/126___Schedule.pdf)
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-05-28-10-37-01-৪.-খনি-আইন,-১৯২৩.pdf)

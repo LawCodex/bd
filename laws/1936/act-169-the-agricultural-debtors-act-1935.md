@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1936-04-09
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/169___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-169.html"
 retrieved: 2026-10-12
 ---
@@ -889,3 +891,9 @@ shall, on conviction, be liable to imprisonment for a term which may extend to t
 - <sup>22</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>23</sup> Clauses (ma) and (mb) were inserted by section 24 of the Bengal Agricultural Debtors (Amendment) Act, 1940 (Act No. VIII of 1940)
 - <sup>24</sup> Clauses (ya) to (yd) were inserted by section 6 of the Bengal Agricultural Debtors (Amendment) Act, 1942 (Act No. II of 1942)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/169___Schedule.pdf)

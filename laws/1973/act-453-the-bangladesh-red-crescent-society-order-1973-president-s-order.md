@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-03-31
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/453___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-453.html"
 retrieved: 2026-10-12
 ---
@@ -371,3 +373,9 @@ Provided that an officer or an employee so transferred shall have the option not
 - <sup>36</sup> Article 21A was inserted by section 2 of the Bangladesh Red Cross Society (Amendment) Act, 1974 (Act No. V of 1974)
 - <sup>37</sup> The words “any Red Cross Organisation or any other Red Crescent Organisation” were substituted for the words “any other Red Cross Organisation” by section 11 of the Bangladesh Red Cross Society (Amendment) Act, 1988 (Act No. XXV of 1988)
 - <sup>38</sup> Article 23 was substituted by section 7 of the Bangladesh Red Cross Society (Amendment) Ordinance, 1975 (Ordinance No. XLIX of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/453___Schedule.pdf)

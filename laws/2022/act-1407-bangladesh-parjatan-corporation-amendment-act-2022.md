@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2022-06-19
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2022-07-04-10-03-02-Act-11-of-2022.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1407.html"
 retrieved: 2026-10-12
 ---
@@ -138,3 +140,9 @@ retrieved: 2026-10-12
 #### ১১| President’s Order No 143 of 1972 এর Article 16 এর সংশোধন
 
 ১১| উক্ত Order এর Article 16 এর clause (2) এ উল্লিখিত “Chartered Accountants Ordinance, 1961 (Ordinance X of 1961)” শব্দগুলি, কমা, সংখ্যাগুলি এবং বন্ধনীর পরিবর্তে Bangladesh Chartered Accountants Order, 1973 (President’s Order No. 2 of 1972) শব্দগুলি, কমা, সংখ্যাগুলি এবং বন্ধনী প্রতিস্থাপিত হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Bangladesh Parjatan Corporation (Amendment) Act, 2022](http://bdlaws.minlaw.gov.bd/upload/act/2022-07-04-10-03-02-Act-11-of-2022.pdf)

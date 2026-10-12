@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1980-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/604___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-604.html"
 retrieved: 2026-10-12
 ---
@@ -380,3 +382,9 @@ Provided that in calculating for the purposes of this sub section, the amount of
 | (b) Nothing contained in clause (a) shall apply in respect of the following goods or class of goods, namely:- | |---| | (i) tea, | | (ii) raw jute, | | (iii) jute manufacture, | | (iv) raw hides and skin and wet‑blue leather, | | (v) such other goods as may be notified by the National Board of Revenue from time to time. | | (c) The National Board of Revenue may make rules providing for the computation of profits and the tax attributable to export sales and for such other matters as may be necessary to give effect to the provisions of this sub‑section, | | (5) In cases to which section 17 of the Income tax Act, 1922 (XI of 1922), applies, the tax chargeable shall be determined as provided in that section but with reference to the rates imposed by sub-section (1), and in accordance, where applicable, with the provisions of sub-section (2). | | (6) For the purpose of making deduction of tax under section 18 of the Income‑tax Act, 1922 (XI of 1922), the rates specified in the |
 
 | Third Schedule shall apply as respects the year beginning on the first day of July, 1980, and ending on the thirtieth day of June, 1981. | |---| | (7) For the purposes of this section and of the rates of tax imposed thereby, the expression “total income” means total income as determined for the purposes of income‑tax in accordance with the provisions of the Income‑tax Act, 1922 (XI of 1922). |
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/604___Schedule.pdf)

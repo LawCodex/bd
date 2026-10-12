@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1978-11-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/578___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-578.html"
 retrieved: 2026-10-12
 ---
@@ -879,3 +881,9 @@ Provided that all such cases shall be subject to the provisions of section 403 o
 
 - <sup>1</sup> The words and commas “shall be punishable with imprisonment for a term which may extend to one year, or with fine which may extend to two thousand Taka, or with both, and such vehicle shall be liable to be confiscated to the Government” were substituted for the words “shall be punishable with fine which may extend to two hundred Taka” by section 2 of the Chittagong Metropolitan Police (Amendment) Ordinance, 1984 (Ordinance No. XXV of 1984)
 - <sup>2</sup> Section 74A was inserted by section 3 of the Chittagong Metropolitan Police (Amendment) Ordinance, 1984 (Ordinance No. XXV of 1984)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/578___Schedule.pdf)

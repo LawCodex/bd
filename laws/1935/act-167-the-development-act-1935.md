@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1935-10-03
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/167___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-167.html"
 retrieved: 2026-10-12
 ---
@@ -423,3 +425,9 @@ provide for all or any of the following matters, namely:-
 - <sup>16</sup> The word "Government" was substituted, for the words "Board of Revenue" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>17</sup> The proviso was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>18</sup> The proviso was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/167___Schedule.pdf)

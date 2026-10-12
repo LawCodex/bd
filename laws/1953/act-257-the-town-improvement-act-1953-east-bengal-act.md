@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1953-05-15
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/257___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-257.html"
 retrieved: 2026-10-12
 ---
@@ -1873,3 +1875,9 @@ he shall be punishable with fine which may extend to <sup>156</sup>[two thousand
 - <sup>158</sup> The words “other members” were substituted for the word “Trustees” by section 69 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987)
 - <sup>159</sup> The words “other members” were substituted for the word “Trustees” by section 69 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987
 - <sup>160</sup> The word “Bengal” was omitted by section 71 of the Town Improvement (Amendment) Act, 1987 (Act No. XXIX of 1987)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/257___Schedule.pdf)

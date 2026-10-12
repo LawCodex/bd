@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-20-11-31-39-Act-No-11-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1640.html"
 retrieved: 2026-10-12
 ---
@@ -388,3 +390,9 @@ This memorandum shall be prepared at the time and place of arrest and shall be f
 ৩০। (১) Code of Criminal Procedure (Amendment) Ordinance, 2025 (২০২৫ সনের ৩৬ নং অধ্যাদেশ) এবং Code of Criminal Procedure (Second Amendment) Ordinance, 2025 (২০২৫ সনের ৪১ নং অধ্যাদেশ), অতঃপর উক্ত অধ্যাদেশসমূহ বলিয়া উল্লিখিত, এতদ্দ্বারা রহিত করা হইল।
 
 (২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, উক্ত অধ্যাদেশসমূহের অধীন কৃত কোনো কার্য, গৃহীত কোনো ব্যবস্থা বা সূচিত কোনো কার্যধারা এই আইনের অধীন কৃত, গৃহীত বা সূচিত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Code of Criminal Procedure (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-20-11-31-39-Act-No-11-of-2026.pdf)

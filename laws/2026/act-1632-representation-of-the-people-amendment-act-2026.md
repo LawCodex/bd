@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-19-11-15-49-Act-No-03-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1632.html"
 retrieved: 2026-10-12
 ---
@@ -418,3 +420,9 @@ Provided further that the donation or grants or assets or service as mentioned h
 ৪৩। (১) Representation of the People (Amendment) Ordinance, 2025 (২০২৫ সনের ৫৬ নং অধ্যাদেশ) এবং Representation of the People (Second Amendment) Ordinance, 2025 (২০২৫ সনের ৭৫ নং অধ্যাদেশ) এতদ্দ্বারা রহিত করা হইল।
 
 (২) উক্তরূপ রহিতকরণ সত্ত্বেও উক্ত অধ্যাদেশ দুইটির অধীন কৃত বা গৃহীত ব্যবস্থা এই আইনের অধীন কৃত বা গৃহীত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Representation of the People (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-19-11-15-49-Act-No-03-of-2026.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1969-11-17
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/359___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-359.html"
 retrieved: 2026-10-12
 ---
@@ -193,3 +195,9 @@ but does not include any person employed as a work-charged, casual labour and su
 - <sup>20</sup> The words “or the Railway Board” were omitted by section 11 of the Eastern Railway Servants Group Insurance (Amendment) Act, 1991 (Act No. V of 1991)
 - <sup>21</sup> The word “Government” was substituted for the words “Railway Board” by section 12 of the Eastern Railway Servants Group Insurance (Amendment) Act, 1991 (Act No. V of 1991)
 - <sup>22</sup> The word “Provincial” was omitted by section 13 of the Eastern Railway Servants Group Insurance (Amendment) Act, 1991 (Act No. V of 1991)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/359___Schedule.pdf)

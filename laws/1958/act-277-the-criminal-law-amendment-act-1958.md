@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1958-09-23
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-05-18-11-29-15-277___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-277.html"
 retrieved: 2026-10-12
 ---
@@ -218,3 +220,9 @@ Provided that notwithstanding anything contained in section 526 of the Code of C
 - <sup>33</sup> The words “High Court Division” were substituted for the words “aforesaid court” by section 7 of the Criminal Law Amendment (Amendment) Act, 2004 (Act No. XXII of 2004)
 - <sup>34</sup> The word “Commission” was substituted for the word “Government” by section 7 of the Criminal Law Amendment (Amendment) Act, 2004 (Act No. XXII of 2004)
 - <sup>35</sup> Clause (a) was omitted by section 8 of the Criminal Law Amendment (Amendment) Act, 2004 (Act No. XXII of 2004)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2023-05-18-11-29-15-277___Schedule.pdf)

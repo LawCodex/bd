@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1923-03-05
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/128___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-128.html"
 retrieved: 2026-10-12
 ---
@@ -290,3 +292,9 @@ Provided that no appeal shall be decided until the appellant has been heard or h
 - <sup>9</sup> Section 34A was inserted by section 15 of the Cantonments (House-Accommodation Amendment) Act, 1930 (Act No. IX of 1930)
 - <sup>10</sup> Clause (a) was omitted by section 16 of the Cantonments (House-Accommodation) (Amendment) Act, 1930 (Act No. IX of 1930)
 - <sup>11</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/128___Schedule.pdf)

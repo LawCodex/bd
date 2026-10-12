@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1974-07-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/479___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-479.html"
 retrieved: 2026-10-12
 ---
@@ -246,3 +248,9 @@ the offence of which he is accused or has been convicted; and in relation to suc
 #### 24. Repeal
 
 24. The Extradition Act, 1903 (XV of 1903), is hereby repealed.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/479___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1914-02-28
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/103___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-103.html"
 retrieved: 2026-10-12
 ---
@@ -141,3 +143,9 @@ Provided that nothing herein contained shall be deemed-
 - <sup>2</sup> The definitions "the Government" or "the appropriate Government" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> The word "Taka" was substituted, for the word "rupees" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The words, commas and figures "Article 16 of Bangladesh Bank Order, 1972 (P.O. No. 127 of 1972)," were substituted, for the words, comma and figures "section 26 of the Indian Paper Currency Act, 1910," by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/103___Schedule.pdf)

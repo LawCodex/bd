@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-12-27-11-38-02-459_SCHEDULE_LAWS_REVISION_AND_DECLARATION_ACT_2001.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-430.html"
 retrieved: 2026-10-12
 ---
@@ -91,3 +93,9 @@ nor shall this Act revive or restore anything not in force or existing at the ti
 - <sup>10</sup> The words “expressly stated in the law” were substituted for the words “expressly stated in the Act” by section 6 of he Bangladesh Laws (Revision and Declaration) (Amendment) Act, 1974 (Act No. LIII of 1974)
 - <sup>11</sup> The words “any law” were substituted for the words “any Act” by section 6 of the Bangladesh Laws (Revision and Declaration) (Amendment) Act, 1974 (Act No. LIII of 1974)
 - <sup>12</sup> Section 6A was inserted by section 2 of Bangladesh Laws (Revision and Declaration) (Amendment) Act, 2009 (Act. No. XV of 2009) (with effect from 5th November 2008).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2020-12-27-11-38-02-459_SCHEDULE_LAWS_REVISION_AND_DECLARATION_ACT_2001.pdf)

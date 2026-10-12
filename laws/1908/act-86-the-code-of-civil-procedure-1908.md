@@ -7,6 +7,11 @@ jurisdiction: bd
 language: en
 date: 1908-03-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-09-25-00-10-42-86___SCHEDULE-INDEX-Schedule.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-27-11-58-00-First-Schedule.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-09-25-00-14-05-86___APPENDIX-A-Schedule.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-09-25-00-14-05-86___THE-SECOND,THIRD,-FOURTH-AND-FIFTH-SCHEDULE-Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-86.html"
 retrieved: 2026-10-12
 ---
@@ -1673,3 +1678,12 @@ Provided that such notice as the Court in each case thinks sufficient has been g
 - <sup>114</sup> The word "Parliament" was substituted, for the words "such Legislature" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>115</sup> The word "Parliament" was substituted, for the words "such Legislature" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>116</sup> The words "the Supreme Court" were substituted, for the letter and word "a High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE INDEX](http://bdlaws.minlaw.gov.bd/upload/act/2020-09-25-00-10-42-86___SCHEDULE-INDEX-Schedule.pdf)
+- [THE FIRST SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-27-11-58-00-First-Schedule.pdf)
+- [APPENDIX A](http://bdlaws.minlaw.gov.bd/upload/act/2020-09-25-00-14-05-86___APPENDIX-A-Schedule.pdf)
+- [THE SECOND,THIRD, FOURTH AND FIFTH SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2020-09-25-00-14-05-86___THE-SECOND,THIRD,-FOURTH-AND-FIFTH-SCHEDULE-Schedule.pdf)

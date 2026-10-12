@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1922-10-05
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/124___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-124.html"
 retrieved: 2026-10-12
 ---
@@ -63,3 +65,9 @@ Explanation- Expressions of disapprobation of the measures of the Government wit
 - <sup>2</sup> The words "Bangladesh or part thereof" were substituted, for the words "any Province or part of a Province" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The word "Taka" was substituted, for the word "rupees" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/124___Schedule.pdf)

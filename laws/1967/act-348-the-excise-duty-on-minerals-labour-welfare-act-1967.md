@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1967-06-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/348___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-348.html"
 retrieved: 2026-10-12
 ---
@@ -239,3 +241,9 @@ Provided that the Board shall include an equal number of members representing Go
 - <sup>10</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
 - <sup>11</sup> The words “Bangladesh Bank” were substituted for the words “State Bank of Pakistan” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>12</sup> The words and comma “a Provincial Government,” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/348___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1975-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/485___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-485.html"
 retrieved: 2026-10-12
 ---
@@ -32,3 +34,9 @@ It is hereby enacted as follows:-
 #### 3. Appropriation
 
 3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Act shall be appropriated for the services and purposes expressed in the Schedule in relation to the financial year ending on the thirtieth day of June, 1975.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/485___Schedule.pdf)

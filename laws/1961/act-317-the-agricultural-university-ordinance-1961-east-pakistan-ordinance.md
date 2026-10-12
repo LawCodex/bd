@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1961-08-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/317___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-317.html"
 retrieved: 2026-10-12
 ---
@@ -464,3 +466,9 @@ Provided that any Authority which is dissatisfied with any such direction may ap
 - <sup>11</sup> Clause (gg) was inserted by section 4 of the East Pakistan Agricultural University (Amendment) Ordinance, 1962 (East Pakistan Ordinance No. XXV of 1962)
 - <sup>12</sup> The word “Government” was substituted for the words “Central or the Provincial Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>13</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/317___Schedule.pdf)

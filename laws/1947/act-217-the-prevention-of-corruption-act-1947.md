@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1947-03-11
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-11-10-47-39-৯.-দুর্নীতি-প্রতিরোধ-আইন,-১৯৪৭.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-217.html"
 retrieved: 2026-10-12
 ---
@@ -99,3 +101,9 @@ Provided that -
 - <sup>2</sup> The word “authority” was substituted for the words, commas and figures “council as defined in the Basic Democracies Order, 1959, or of a Municipal Committee” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> The words “with both, and the pecuniary resources or property to which the criminal misconduct relates may also be confiscated to the State” were substituted for the words “with both” by section 2 of the Prevention of Corruption (Amendment) Act, 1992 (Act No. VIII of 1992)
 - <sup>4</sup> Section 5A was inserted by section 5 of the Criminal Law Amendment Act, 1953 (Act No. XXXVII of 1953)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-11-10-47-39-৯.-দুর্নীতি-প্রতিরোধ-আইন,-১৯৪৭.pdf)

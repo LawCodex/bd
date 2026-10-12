@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-21-15-10-14-Act-No.-25-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1654.html"
 retrieved: 2026-10-12
 ---
@@ -78,3 +80,9 @@ Explanation.-For the purposes of this clause, “Other Effective Area based Cons
 ৬। (১) Protection and Conservation of Fish (Amendment) Ordinance, 2025 (২০২৫ সনের ৩৪ নং অধ্যাদেশ) এবং Protection and Conservation of Fish (Amendment) Ordinance, 2026 (২০২৬ সনের ২১ নং অধ্যাদেশ) এতদ্দ্বারা রহিত করা হইল।
 
 (২) উক্তরূপ রহিতকরণ সত্ত্বেও উক্ত অধ্যাদেশ দুইটির অধীন কৃত কার্য বা গৃহীত ব্যবস্থা এই আইনের অধীন কৃত বা গৃহীত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Protection and Conservation of Fish (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-21-15-10-14-Act-No.-25-of-2026.pdf)

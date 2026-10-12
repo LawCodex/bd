@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/432___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-432.html"
 retrieved: 2026-10-12
 ---
@@ -454,3 +456,9 @@ Explanation.- For the purpose of levying the toll, less than half of a ton shall
 (c) Seating not more than four persons – Tk. 225.00
 
 (d) Seating more than four persons, for every additional passenger that can be seated – Tk. 60.00”.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/432___Schedule.pdf)

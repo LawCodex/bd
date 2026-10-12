@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1975-07-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/499___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-499.html"
 retrieved: 2026-10-12
 ---
@@ -126,3 +128,9 @@ It is hereby enacted as follows:-
 ## Footnotes
 
 - <sup>1</sup> Section 5A was inserted by section 2 of the Government-owned Newspapers (Management) (Amendment) Ordinance, 1983 (Ordinance No. XIII of 1983)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/499___Schedule.pdf)

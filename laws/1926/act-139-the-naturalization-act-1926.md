@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1926-02-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/139___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-139.html"
 retrieved: 2026-10-12
 ---
@@ -237,3 +239,9 @@ Provided that the wife of any such person shall not cease to be deemed to be a c
 - <sup>10</sup> The words "or in His Majesty's dominions" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>11</sup> The words "the Republic" were substituted, for the words "a Government in Pakistan" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>12</sup> The words, comma and figure "Citizenship Act, 1951" were substituted, for the words, comma and figure "Pakistan Citizenship Act, 1951" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/139___Schedule.pdf)

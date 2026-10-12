@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1867-03-15
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/18___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-18.html"
 retrieved: 2026-10-12
 ---
@@ -145,3 +147,9 @@ All penalties imposed under this Act may be recovered in the same manner as fine
 - <sup>2</sup> Throughout this Act, except otherwise provided, the words “Government” and “taka” were substituted, for the words “Provincial Government” and “rupees” respectively by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> Section 17 was substituted, for section 17 by the Schedule of the Dhaka Metropolitan Police (Amendment) Ordinance, 1976 (Ordinance No. LXIX of 1976).
 - <sup>4</sup> The words “a Metropolitan Area” were substituted, for the words “the Dhaka Metropolitan Area” by the Schedule III of the Chittagong Metropolitan Police Ordinance, 1978 (Ordinance No. XLVIII of 1978).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/18___Schedule.pdf)

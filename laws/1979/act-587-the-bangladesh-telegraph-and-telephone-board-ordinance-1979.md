@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1979-02-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/587___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-587.html"
 retrieved: 2026-10-12
 ---
@@ -221,3 +223,9 @@ Provided that any such person may, within such time as may be specified by the G
 - <sup>2</sup> Sections 5A and 5B were inserted by section 2 of The Bangladesh Telegraph and Telephone Board (Amendment) Act, 2009 (Act. No. XXV of 2009) (with effect from 1st June, 2008).
 - <sup>3</sup> Clauses (a) and (aa) were substituted for clause (a) by section 2 of the Bangladesh Telegraph and Telephone Board (Amendment) Act, 1995 (Act No. XVI of 1995)
 - <sup>4</sup> The words and figures “sections 4, 7, 8, 15 and 19B” were substituted for the words and figures “section 7 and 15 ” by section 2 of the Bangladesh Telegraph and Telephone Board (Amendment) Act, 1995 (Act No. XVI of 1995)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/587___Schedule.pdf)

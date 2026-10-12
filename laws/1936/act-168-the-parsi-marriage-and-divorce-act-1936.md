@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1936-04-23
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/168___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-168.html"
 retrieved: 2026-10-12
 ---
@@ -381,3 +383,9 @@ any decree or order referred to was passed under this Act or under the law in fo
 - <sup>10</sup> The words "the High Court Division" were substituted, for the words "a High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>11</sup> The words "the High Court Division" were substituted, for the words "the High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>12</sup> Section 51 was substituted, for section 51 by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/168___Schedule.pdf)

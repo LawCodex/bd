@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1898-03-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/76___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-76.html"
 retrieved: 2026-10-12
 ---
@@ -835,3 +837,9 @@ Provided that nothing in this section shall apply to a person who does any act t
 - <sup>48</sup> The words "two thousand taka" were substituted, for the words “two hundred taka” by section 14 of the Post Office (Amendment) Act, 1994 (Act No. V of 1994)
 - <sup>49</sup> The words "five thousand taka' were substituted, for the words “five hundred taka” by section 15 of the Post Office (Amendment) Act, 1994 (Act No. V of 1994)
 - <sup>50</sup> The words "one thousand taka" were substituted, for the words "fifty taka" by section 16 of the Post Office (Amendment) Act, 1994 (Act No. V of 1994)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/76___Schedule.pdf)

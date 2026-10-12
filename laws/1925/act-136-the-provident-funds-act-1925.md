@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1925-08-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/136___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-136.html"
 retrieved: 2026-10-12
 ---
@@ -144,3 +146,9 @@ Provided that section 6 shall apply as if the authority making the contributions
 - <sup>11</sup> The words, comma and figure "Succession Act, 1925" were substituted, for the words, comma and figures "Succession Certificate Act, 1889 or the Bombay Regulation VIII of 1827" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>12</sup> The commas and words ", or that Regulation, as the case may be," were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>13</sup> Sub-section (4) and the Explanation were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/136___Schedule.pdf)

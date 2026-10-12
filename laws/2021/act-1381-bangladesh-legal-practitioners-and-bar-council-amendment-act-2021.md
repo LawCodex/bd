@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2021-09-13
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2021-10-13-12-04-23-Act-No-16-of-2021.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1381.html"
 retrieved: 2026-10-12
 ---
@@ -50,3 +52,9 @@ The Attorney-General for Bangladesh shall be one of the members of the Ad-hoc Ba
 ৪। (১) Bangladesh Legal Practitioners and Bar Council (Amendment) Ordinance, 2021 (২০২১ সনের ১ নং অধ্যাদেশ) এতদ্দ্বারা রহিত করা হইল।
 
 (২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, রহিত Ordinance এর অধীন কৃত কার্যক্রম বা গৃহীত ব্যবস্থা এই আইনের অধীন কৃত বা গৃহীত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Bangladesh Legal Practitioners and Bar Council (Amendment) Act, 2021](http://bdlaws.minlaw.gov.bd/upload/act/2021-10-13-12-04-23-Act-No-16-of-2021.pdf)

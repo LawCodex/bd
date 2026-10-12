@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1967-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/350___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-350.html"
 retrieved: 2026-10-12
 ---
@@ -96,3 +98,9 @@ It is hereby enacted as follows:-
 - <sup>3</sup> The word “Bangladesh” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973) as amended by the Bangladesh Laws (Revision and Declaration) (Third Amendment) Act, 2001 (Act No. XLVIII of 2001)
 - <sup>4</sup> The word “Bangladesh” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>5</sup> The word “Bengal” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/350___Schedule.pdf)

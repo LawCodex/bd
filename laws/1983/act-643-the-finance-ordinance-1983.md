@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1983-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/643___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-643.html"
 retrieved: 2026-10-12
 ---
@@ -266,3 +268,9 @@ Provided that in calculating for the purpose of this sub-section, the amount of 
 <table border="0" cellpadding="0" cellspacing="0" width="100%"> <tr> <td><p> </p></td> <td>(c) where the export sales exceed 20 per cent but do not exceed 30 per cent of the total sales:</td> <td><p>40 per cent of the income-tax attributable to export sales.</p></td> </tr> <tr> <td><p> </p></td> <td>(d) where the export sales exceed 30 per cent but do not exceed 40 per cent of the total sales:</td> <td><p>50 per cent of the income-tax attributable to export sales.</p></td> </tr> <tr> <td><p> </p></td> <td>(e) where the export sales exceed 40 per cent of the total sales:</td> <td><p>60 per cent of the income-tax attributable to export sales.</p></td> </tr> <tr> <td> </td> <td colspan="2"> </td> </tr> <tr> <td> </td> <td colspan="2"><table> <tr> <td><p> (b) Nothing contained in clause (a) shall apply in respect of the following goods or class of goods, namely:-</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(i) tea;</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(ii) raw jute;</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(iii) jute manufactures;</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(iv) raw hides and skin and wet-blue leather;</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(v) such other goods as may be notified by the National Board of Revenue from time to time.</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p> (c) The National Board of Revenue may make rules providing for the computation of profits and the tax attributable to export sales and for such other matters as may be necessary to give effect to the provisions of this sub-section.</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p> (5) In cases to which section 17 of the Income-tax Act, 1922 (XI of 1922), applies the tax chargeable shall be determined as provided in that section but with reference to the rates imposed by sub-section (1), and in accordance where applicable, with the provisions of sub-section (2).</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p> (6) For the purpose of making deduction of tax under section 18 of the Income-tax Act, 1922 (XI of 1922), the rates specified in the Second Schedule shall apply as respects the year beginning on the first day of July, 1983, and ending on the thirtieth day of June, 1984.</p></td> </tr> <tr> <td><p> </p></td> </tr> </table></td> </tr> </table>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%"> </table>
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/643___Schedule.pdf)

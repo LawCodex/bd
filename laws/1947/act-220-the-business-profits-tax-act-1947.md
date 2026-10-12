@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1947-04-11
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/220___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-220.html"
 retrieved: 2026-10-12
 ---
@@ -386,3 +388,9 @@ Provided that whatever be the relevant period, references to section 46 of the s
 - <sup>3</sup> Clause 17A was substituted by the Bangladesh Taxation Laws (Adaptation) Order, 1972 (P.O. No. 62 of 1972)
 - <sup>4</sup> The Explanation was substituted by The Bangladesh Taxation Laws (Adaptation) Order, 1972 (P.O. No. 62 of 1972)
 - <sup>5</sup> The words “Penal Code” were substituted for the words “Pakistan Penal Code” by section 8 of the Bangladesh Laws (Revision and Declaration) (Amendment) Act, 1974 (Act No. LIII of 1974)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/220___Schedule.pdf)

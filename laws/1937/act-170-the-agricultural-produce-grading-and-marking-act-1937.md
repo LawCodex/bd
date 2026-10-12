@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1937-02-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/170___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-170.html"
 retrieved: 2026-10-12
 ---
@@ -86,3 +88,9 @@ WHEREAS it is expedient to provide for the grading and marking of Agricultural a
 - <sup>3</sup> The word “Government” was substituted for the word “Central Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The word “Taka” was substituted for the word “rupees” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>5</sup> The word “Government” was substituted for the word “Central Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/170___Schedule.pdf)

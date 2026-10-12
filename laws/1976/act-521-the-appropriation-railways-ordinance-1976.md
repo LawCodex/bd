@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1976-06-28
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/521___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-521.html"
 retrieved: 2026-10-12
 ---
@@ -32,3 +34,9 @@ NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and 
 #### 3. Appropriation.
 
 3. The sums authorised to be paid and applied from and out of the Consolidated Fund by this Ordinance shall be appropriated in respect of Bangladesh Railways for the services and purposes expressed in the Schedule in relation to the period specified in section 2.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/521___Schedule.pdf)

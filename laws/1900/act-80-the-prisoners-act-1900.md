@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1900-02-02
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/80___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-80.html"
 retrieved: 2026-10-12
 ---
@@ -318,3 +320,9 @@ Provided that, if upon any application for such order it appears to the Court to
 - <sup>13</sup> The words, commas and figure "Code of Civil Procedure, 1908," were substituted, for the words "Code of Civil Procedure" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>14</sup> The words, commas and figure "Code of Civil Procedure, 1908," were substituted, for the words "Code of Civil Procedure" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>15</sup> The words, comma and figure "Code of Civil Procedure, 1908" were substituted, for the words "Code of Civil Procedure" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/80___Schedule.pdf)

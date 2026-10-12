@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1975-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/484___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-484.html"
 retrieved: 2026-10-12
 ---
@@ -418,3 +420,9 @@ Provided that in the case of a registered firm super-tax payable by it under par
 #### 12. Surcharge under the Income-tax Act, 1922 (XI of 1922)
 
 12. Surcharge under the Income-tax Act, 1922 (XI of 1922), shall be charged as respects any assessment for the year beginning on the first day of July, 1975, at the rates specified in Part III of the Third Schedule to this Act.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/484___Schedule.pdf)

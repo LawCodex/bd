@@ -7,6 +7,9 @@ jurisdiction: bd
 language: en
 date: 1951-05-16
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/241___Schedule.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-06-26-12-49-56-109.রাষ্ট্রীয়-অধিগ্রহণ-ও-প্রজাস্বত্ব-আইন,-১৯৫০.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-241.html"
 retrieved: 2026-10-12
 ---
@@ -2481,3 +2484,10 @@ Provided further that in the cases of lands held under wakf, wakf-al-al-aulad, d
 - <sup>112</sup> The words “five years” were omitted by Article 3 of the State Acquisition and Tenancy (Seventh Amendment) Order, 1972 (President’s Order No. 157 of 1972)
 - <sup>113</sup> Clause (b) was omitted by Article 4 of the State Acquisition and Tenancy (Amendment) Order, 1972 (President’s Order No. 72 of 1972)
 - <sup>114</sup> Clause (p) was omitted by section 7 of the East Bengal State Acquisition and Tenancy (Amendment) Act, 1964 (East Pakistan Act No. XVII of 1964)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/241___Schedule.pdf)
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-06-26-12-49-56-109.রাষ্ট্রীয়-অধিগ্রহণ-ও-প্রজাস্বত্ব-আইন,-১৯৫০.pdf)

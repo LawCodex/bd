@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1918-03-06
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-03-22-09-46-36-63.The-Cinematograph-Act,-1918.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-108.html"
 retrieved: 2026-10-12
 ---
@@ -113,3 +115,9 @@ WHEREAS it is expedient to make provision for regulating exhibitions by means of
 - <sup>10</sup> Clauses (b) and (bb) were omitted by section 13 of the Censorship of Films Act, 1963 (Act No. XVIII of 1963)
 - <sup>11</sup> Sub-section (3) was repealed by section 2 and Schedule I of the Devolution Act, 1920 (Act No. XXXVIII of 1920)
 - <sup>12</sup> The word "Provincial" was omitted by Article 7 of the Cinematograph (Bangladesh Amendment) Order, 1972 (President's Order No. 40 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2023-03-22-09-46-36-63.The-Cinematograph-Act,-1918.pdf)

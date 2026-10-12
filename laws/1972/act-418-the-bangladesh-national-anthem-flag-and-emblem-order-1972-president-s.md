@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-10-31
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2021-02-28-11-25-24-418___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-418.html"
 retrieved: 2026-10-12
 ---
@@ -57,3 +59,9 @@ NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, 
 
 - <sup>1</sup> Article 4A was inserted by section 2 of Bangladesh National Anthem, Flag and Emblem (Amendment) Act, 2010.
 - <sup>2</sup> Article 5 was substituted by section 3 of Bangladesh National Anthem, Flag and Emblem (Amendment) Act, 2010.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2021-02-28-11-25-24-418___Schedule.pdf)

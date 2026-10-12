@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1850-03-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-05-28-10-57-28-১.-সরকারী-হিসাব-রক্ষক-কর্তব্যকর্ম-সম্পাদনে-ব্যর্থতা-আইন,-১৮৫০.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-2.html"
 retrieved: 2026-10-12
 ---
@@ -40,3 +42,9 @@ retrieved: 2026-10-12
 #### 6. [Repealed]
 
 6. [Repealed by the Repealing Act, 1870 (Act No. XIV of 1870).]
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-05-28-10-57-28-১.-সরকারী-হিসাব-রক্ষক-কর্তব্যকর্ম-সম্পাদনে-ব্যর্থতা-আইন,-১৮৫০.pdf)

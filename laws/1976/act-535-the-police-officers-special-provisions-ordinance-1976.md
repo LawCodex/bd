@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1976-11-08
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/535___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-535.html"
 retrieved: 2026-10-12
 ---
@@ -106,3 +108,9 @@ the authority concerned may impose on such police-officer any of the penalties m
 - <sup>1</sup> Sub-sections (2), (3) and (4) were substituted by section 2 of the Police Officers (Special Provisions) (Amendment) Ordinance, 1982 (Ordinance No. XXII of 1982)
 - <sup>2</sup> The word “forty-five” was substituted for the word “fifteen” by section 3 of the Police Officers (Special Provisions) (Amendment) Ordinance, 1982 (Ordinance No. XXII of 1982)
 - <sup>3</sup> Section 7A was inserted by section 4 of the Police Officers (Special Provisions) (Amendment) Ordinance, 1982 (Ordinance No. XXII of 1982)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/535___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1959-09-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/290___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-290.html"
 retrieved: 2026-10-12
 ---
@@ -64,3 +66,9 @@ NOW, THEREFORE, in pursuance of the Proclamation of the seventh day of October, 
 ## Footnotes
 
 - <sup>1</sup> Throughout this Ordinance, the words “Bangladesh” and “Government” were substituted for the words “Pakistan” and “Central Government” respectively by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/290___Schedule.pdf)

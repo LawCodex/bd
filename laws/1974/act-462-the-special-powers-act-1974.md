@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1974-02-09
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/462___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-462.html"
 retrieved: 2026-10-12
 ---
@@ -473,3 +475,9 @@ Provided that the Government may, for the purpose of trial of offences mentioned
 - <sup>30</sup> Clause (b) was omitted by section 4 of the Special Powers (Amendment) Ordinance, 1977 (Ordinance No. XL of 1977)
 - <sup>31</sup> The word “an” was substituted for the words “any other” by section 4 of the Special Powers (Amendment) Ordinance, 1977 (Ordinance No. XL of 1977)
 - <sup>32</sup> Sections 34A and 34B were inserted by section 7 of the Special Powers (Amendment) Act, 1974 (Act No. LIX of 1974)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/462___Schedule.pdf)

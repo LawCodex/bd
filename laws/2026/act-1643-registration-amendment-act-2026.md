@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-20-11-39-26-Act-No-14-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1643.html"
 retrieved: 2026-10-12
 ---
@@ -102,3 +104,9 @@ Of E-Registration
 ১১। (১) Registration (Amendment) Ordinance, 2026 (২০২৬ সনের ০৪ নং অধ্যাদেশ) এবং Registration (Second Amendment) Ordinance, 2026 (২০২৬ সনের ২৪ নং অধ্যাদেশ), অতঃপর উক্ত অধ্যাদেশসমূহ বলিয়া উল্লিখিত, এতদ্দ্বারা রহিত করা হইল।
 
 (২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, উক্ত অধ্যাদেশসমূহের অধীন কৃত কোনো কার্য, গৃহীত কোনো ব্যবস্থা বা সূচিত কোনো কার্যধারা এই আইনের অধীন কৃত, গৃহীত বা সূচিত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Registration (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-20-11-39-26-Act-No-14-of-2026.pdf)

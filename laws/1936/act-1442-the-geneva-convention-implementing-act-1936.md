@@ -15,7 +15,7 @@ retrieved: 2026-10-12
 
 (ACT NO. XIV OF 1936)
 
-****<sup>1</sup>[]An Act to implement Article 28 of the Geneva Convention of the 27th day of July, 1929****
+<sup>1</sup>[]An Act to implement Article 28 of the Geneva Convention of the 27th day of July, 1929
 
 <sup>2</sup>[Whereas it is expedient to provide for the discharge of obligations under Article 28 of the International Convention for the Amelioration of the Conditions of the Wounded and Sick in Armies in the Field, drawn up in Geneva and dated the 27th day of July, 1929, and Article 53 of the Convention for the Amelioration of the Conditions of the Wounded and Sick in Armed Forces in the Field, dated the twelfth day of August, 1949 ;
 

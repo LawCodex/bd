@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1933-09-11
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-12-31-48-৬.-বেতার-টেলিগ্রাফি-আইন,-১৯৩৩.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-162.html"
 retrieved: 2026-10-12
 ---
@@ -96,3 +98,9 @@ has been specially designed or adapted for wireless communication or forms part 
 #### 11. Saving of Telegraph Act, 1885
 
 11. Nothing in this Act contained shall authorize the doing of anything prohibited under the Telegraph Act, 1885, and except as provided in sub-section (2) of section 5, no license issued under this Act shall authorize any person to do anything for the doing of which a license or permission under the Telegraph Act, 1885, is necessary.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-12-31-48-৬.-বেতার-টেলিগ্রাফি-আইন,-১৯৩৩.pdf)

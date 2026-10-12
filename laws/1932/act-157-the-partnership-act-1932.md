@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1932-04-08
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/157___schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-157.html"
 retrieved: 2026-10-12
 ---
@@ -693,3 +695,9 @@ or not to become a partner in a registered firm by a person attaining majority w
 - <sup>4</sup> Sub-section (3) was substituted, for sub-section (3) by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>5</sup> The words, brackets, commas and figure "Insolvency (Dacca) Act, 1909, or the" were substituted, for the words, brackets and comma "Insolvency (Karachi Division and Dacca) Act, or the Provincial" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>6</sup> The word "Provincial" was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/157___schedule.pdf)

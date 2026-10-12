@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1961-12-12
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/321___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-321.html"
 retrieved: 2026-10-12
 ---
@@ -81,3 +83,9 @@ NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day
 - <sup>2</sup> The words “within two months from the date of coming into force of this Ordinance or” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> The words and comma “whichever is later,” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The word “taka” was substituted for the word “rupees” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/321___Schedule.pdf)

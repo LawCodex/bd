@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1923-03-05
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/129___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-129.html"
 retrieved: 2026-10-12
 ---
@@ -142,3 +144,9 @@ Provided that, where the ship is sold under this section, due regard shall be ha
 - <sup>7</sup> The words "or State" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>8</sup> The words "the High Court Division" were substituted, for the words "a High Court" and "the High Court" respectively by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>9</sup> The words "the High Court Division" were substituted, for the words "a High Court" and "the High Court" respectively by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/129___Schedule.pdf)

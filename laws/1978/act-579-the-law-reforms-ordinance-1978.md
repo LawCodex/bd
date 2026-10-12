@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1978-12-05
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/579___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-579.html"
 retrieved: 2026-10-12
 ---
@@ -56,3 +58,9 @@ Provided further that it shall not be necessary for a Court of Session to hold t
 ## Footnotes
 
 - <sup>1</sup> The colon (:) was substituted for the full-stop (.) and the proviso was added thereafter by section 19 of the Code of Criminal Procedure (Third Amendment) Ordinance, 1982 (Ordinance No. LX of 1982)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/579___Schedule.pdf)

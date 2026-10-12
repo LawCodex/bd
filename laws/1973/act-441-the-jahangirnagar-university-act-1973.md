@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-10-08
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/441___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-441.html"
 retrieved: 2026-10-12
 ---
@@ -728,3 +730,9 @@ Provided that before making any such order or taking any such action, the Chance
 - <sup>11</sup> Clause (aa) was inserted by section 7 of the Jahangirnagar University (Amendment) Act, 1999 (Act No. X of 1999)
 - <sup>12</sup> The words and brackets “Director (Planning and Development)” were substituted for the words “Planning Development Officer” by section 5 of the University Laws (Amendment) Act, 1987 (Act No. XXXVI of 1987)
 - <sup>13</sup> Section 50 was substituted by section 2 and the Schedule of the Universities Laws Amendment Ordinance, 1975 (Ordinance No. LXII of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/441___Schedule.pdf)

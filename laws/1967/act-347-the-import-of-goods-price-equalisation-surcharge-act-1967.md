@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1967-06-03
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/347___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-347.html"
 retrieved: 2026-10-12
 ---
@@ -93,3 +95,9 @@ It is hereby enacted as follows:-
 - <sup>2</sup> Section 3A was inserted by section 12 of the Finance Act, 1968 (Act No. XI of 1968)
 - <sup>3</sup> The words, comma, figures and brackets “Customs Act, 1969 (IV of 1969)” were substituted for the words, comma, figures and brackets “Sea Customs Act, 1878 (VIII of 1878)” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> Section 6A was inserted by section 12 of the Finance Act, 1968 (Act No. XI of 1968)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/347___Schedule.pdf)

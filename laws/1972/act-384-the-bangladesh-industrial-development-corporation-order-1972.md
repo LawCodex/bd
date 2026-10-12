@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-05-09
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/384___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-384.html"
 retrieved: 2026-10-12
 ---
@@ -68,3 +70,9 @@ Provided that the disputes in respect of which such arbitration proceedings were
 ## Footnotes
 
 - <sup>1</sup> Article 5 was added by Article 2 of the Bangladesh Industrial Development Corporation (Amendment) Order, 1972 (President’s Order No. 78 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/384___Schedule.pdf)

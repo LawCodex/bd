@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1959-09-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/294___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-294.html"
 retrieved: 2026-10-12
 ---
@@ -50,3 +52,9 @@ NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day
 ## Footnotes
 
 - <sup>1</sup> Throughout this Ordinance, the word “Government” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/294___Schedule.pdf)

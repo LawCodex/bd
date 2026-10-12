@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1976-01-20
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/511___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-511.html"
 retrieved: 2026-10-12
 ---
@@ -895,3 +897,9 @@ Provided that all such cases shall be subject to the provisions of section 403 o
 - <sup>10</sup> Section 93A was inserted by section 8 of the Dacca Metropolitan Police (Amendment) Ordinance, 1976 (Ordinance No. LXIX of 1976)
 - <sup>11</sup> Section 103A was inserted by section 9 of the Dacca Metropolitan Police (Amendment) Ordinance, 1976 (Ordinance No. LXIX of 1976)
 - <sup>12</sup> Section 105A was inserted by section 10 of the Dacca Metropolitan Police (Amendment) Ordinance, 1976 (Ordinance No. LXIX of 1976)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/511___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-03-31
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/454___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-454.html"
 retrieved: 2026-10-12
 ---
@@ -467,3 +469,9 @@ Explanation.- The compensation to an officer or other employee under clause (3) 
 - <sup>18</sup> Clause (2) was added by section 2 and the Schedule of the Financial Institutions Laws Amendment Ordinance, 1977 (Ordinance No. LXI of 1977)
 - <sup>19</sup> The words “a Deputy Managing Director and” were inserted by section 2 of the Bangladesh Krishi Bank (Amendment) Ordinance, 1984 (Ordinance No. LVIII of 1984)
 - <sup>20</sup> The commas and the words “, subject to other provisions of this Order,” were inserted by section 2 and the Schedule of the Financial Institutions Laws Amendment Ordinance, 1977 (Ordinance No. LXI of 1977)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/454___Schedule.pdf)

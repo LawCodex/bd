@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2020-07-09
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-09-29-13-40-50-Act-No-12-of-2020.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1309.html"
 retrieved: 2026-10-12
 ---
@@ -15,7 +17,7 @@ retrieved: 2026-10-12
 
 (২০২০ সনের ১২ নং আইন)
 
-****Bangladesh Bank Order, 1972-** এর অধিকতর সংশোধনকল্পে প্রণীত আইন**
+Bangladesh Bank Order, 1972-** এর অধিকতর সংশোধনকল্পে প্রণীত আইন**
 
 যেহেতু নিম্নবর্ণিত উদ্দেশ্য পূরণকল্পে Bangladesh Bank Order, 1972 (P. O. No. 127 of 1972) এর অধিকতর সংশোধন করা সমীচীন ও প্রয়োজনীয়;
 
@@ -28,3 +30,9 @@ retrieved: 2026-10-12
 #### ২. O. No. 127 of 1972 এর Article 10 এর সংশোধন
 
 ২। Bangladesh Bank Order, 1972 (P. O. No. 127 of 1972) এর Article 10 এর clause (5) এর শর্তাংশে উল্লিখিত “sixty five” শব্দগুলির পরিবর্তে “sixty seven” শব্দসমূহ প্রতিস্থাপিত হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Bangladesh Bank (Amendment) Act, 2020](http://bdlaws.minlaw.gov.bd/upload/act/2020-09-29-13-40-50-Act-No-12-of-2020.pdf)

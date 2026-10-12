@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1900-01-17
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-11-03-11-05-12-Chittagong-Hill-tracts-Regulation,-1900-pages-11-14.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1313.html"
 retrieved: 2026-10-12
 ---
@@ -250,3 +252,9 @@ Provided further that no such declaration shall be after the commencement of Par
 - <sup>25</sup> The word "Government" was substituted for the words "Provincial Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
 - <sup>26</sup> The word "Government" was substituted for the words "Central Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
 - <sup>27</sup> The word "Government" was substituted for the words "Central Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2020-11-03-11-05-12-Chittagong-Hill-tracts-Regulation,-1900-pages-11-14.pdf)

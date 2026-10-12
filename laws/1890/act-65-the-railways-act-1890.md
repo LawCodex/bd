@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1890-03-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/65___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-65.html"
 retrieved: 2026-10-12
 ---
@@ -1164,3 +1166,9 @@ may, by instrument in writing, authorise any railway servant or other person to 
 - <sup>45</sup> The words, comma and figure “Post Office Act, 1898” were substituted, for the words and comma “Indian Post Office Act, 1866” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>46</sup> The words, commas and figure “Code of Criminal Procedure, 1898,” were substituted, for the words, commas and figure “Code of Criminal Procedure, 1882,” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>47</sup> Section 147 was substituted, for section 147 by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/65___Schedule.pdf)

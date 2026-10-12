@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1974-11-28
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-17-36-১৬.-বাংলাদেশ-পেট্রোলিয়াম-আইন,-১৯৭৪.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-480.html"
 retrieved: 2026-10-12
 ---
@@ -153,3 +155,9 @@ Provided that the Government may, within one month from the date of commencement
 
 - <sup>1</sup> Clause (b) was omitted by section 2 of the Bangladesh Petroleum (Amendment) Ordinance, 1976 (Ordinance No. LIV of 1976)
 - <sup>2</sup> Section 8 was substituted by section 3 of the Bangladesh Petroleum (Amendment) Ordinance, 1976 (Ordinance No. LIV of 1976)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-17-36-১৬.-বাংলাদেশ-পেট্রোলিয়াম-আইন,-১৯৭৪.pdf)

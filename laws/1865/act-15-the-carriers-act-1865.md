@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1865-02-14
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/15___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-15.html"
 retrieved: 2026-10-12
 ---
@@ -79,3 +81,9 @@ Provided that, to entitle such carrier to payment at a rate higher than his ordi
 - <sup>2</sup> The words, comma, figures and brackets “the Land Acquisition Act, 1894 (Act No. 1 of 1894)” were substituted, for the words and figure “Act XXII of 1863” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>3</sup> The words, comma, figures and brackets “the Land Acquisition Act, 1894 (Act No. 1 of 1894)” were substituted, for the words and figure “Act XXII of 1863” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>4</sup> The word “Province” was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/15___Schedule.pdf)

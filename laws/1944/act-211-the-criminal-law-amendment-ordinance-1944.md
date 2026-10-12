@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1944-08-23
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/211___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-211.html"
 retrieved: 2026-10-12
 ---
@@ -177,3 +179,9 @@ by any person upon whom a notice has been served under section 4 or section 6 or
 - <sup>4</sup> The words “each such” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>5</sup> The brackets and the words “(being a Government referred to in the said Schedule)” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>6</sup> The words “where loss has been caused to Government and one or more local authorities or to more than one” were substituted for the words “where there is more than one such Government or” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/211___Schedule.pdf)

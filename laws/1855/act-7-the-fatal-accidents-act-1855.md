@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1855-03-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-05-30-09-55-19-৩.-মারাত্মক-দুর্ঘটনা-আইন,-১৮৫৫.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-7.html"
 retrieved: 2026-10-12
 ---
@@ -36,3 +38,9 @@ and in every such action the Court may give such damages as it may think proport
 #### 4. Interpretation clause
 
 4. The following words and expressions are intended to have the meanings hereby assigned to them respectively, so far as such meanings are not excluded by the context or by the nature of the subject-matter; that is to say the word "person" shall apply to bodies politic and corporate; and the word "parent" shall include father and mother and grand-father and grand-mother; and the word "child" shall include son and daughter and grand-son and grand-daughter and step-son and step-daughter.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-05-30-09-55-19-৩.-মারাত্মক-দুর্ঘটনা-আইন,-১৮৫৫.pdf)

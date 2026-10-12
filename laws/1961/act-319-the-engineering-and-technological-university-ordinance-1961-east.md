@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1961-09-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/319___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-319.html"
 retrieved: 2026-10-12
 ---
@@ -456,3 +458,9 @@ Provided that any Authority which is dissatisfied with any such direction may ap
 - <sup>7</sup> Clause (ia) was inserted by section 5 of Engineering and Technological University (Amendment) Act, 2001 (২০০১ সনের ৩৩ নং আইন).
 - <sup>8</sup> Clause (gg) was inserted by section 4 of the East Pakistan Engineering and Technological University (Amendment) Ordinance, 1962 (East Pakistan Ordinance No. XXVI of 1962)
 - <sup>9</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/319___Schedule.pdf)

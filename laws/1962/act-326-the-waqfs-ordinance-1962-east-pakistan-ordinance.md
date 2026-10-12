@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1962-01-19
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-11-11-25-45-১২.-ওয়াক্ফ-অধ্যাদেশ,-১৯৬২.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-326.html"
 retrieved: 2026-10-12
 ---
@@ -933,3 +935,9 @@ he shall be liable to compensate the other beneficiaries for any loss caused to 
 - <sup>28</sup> The word “Bengal” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
 - <sup>29</sup> The word “Bengal” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
 - <sup>30</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-11-11-25-45-১২.-ওয়াক্ফ-অধ্যাদেশ,-১৯৬২.pdf)

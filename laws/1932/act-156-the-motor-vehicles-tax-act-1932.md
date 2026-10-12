@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1932-03-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/156___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-156.html"
 retrieved: 2026-10-12
 ---
@@ -166,3 +168,9 @@ he may, notwithstanding anything contained in the Motor Vehicles Act, 1939, or a
 - <sup>1</sup> The word "Bengal" was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> Sub-section (1a) was inserted by section 3(2) of the Bengal Motor Vehicles Tax (Amendment) Act, 1932 (Act No. XIII of 1932)
 - <sup>3</sup> Section 13A was inserted by section 9 of the Bengal Motor Vehicles Tax (Amendment) Act, 1932 (Act No. XIII of 1932)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/156___Schedule.pdf)

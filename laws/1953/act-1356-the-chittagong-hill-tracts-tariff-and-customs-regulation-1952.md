@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1953-08-15
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2021-01-12-11-27-03-1356.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1356.html"
 retrieved: 2026-10-12
 ---
@@ -41,3 +43,9 @@ NOW, THEREFORE, the <sup>2</sup>[Government], in exercise of the said powers and
 
 - <sup>1</sup> The word "Government" was replaced, for the words "Governor" by Article 9 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
 - <sup>2</sup> The word "Government" was replaced, for the words "Governor of East Bengal" by Article 9 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Schedule](http://bdlaws.minlaw.gov.bd/upload/act/2021-01-12-11-27-03-1356.pdf)

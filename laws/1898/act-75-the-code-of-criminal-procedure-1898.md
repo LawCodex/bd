@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1898-03-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-05-05-11-47-47-Schedule-II.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-75.html"
 retrieved: 2026-10-12
 ---
@@ -5184,3 +5186,9 @@ is again convicted of any offence punishable under any of those sections or Chap
 - <sup>597</sup> Clause (b) was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>598</sup> The words "Metropolitan Magistrate" were inserted by the Schedule of the Code of Criminal Procedure (Amendment) Ordinance, 1976 (Ordinance No. LXXXVI of 1976)
 - <sup>599</sup> The words and comma “District Magistrate, Sub-divisional Magistrate” were omitted by section 99 of the Code of Criminal Procedure (Amendment) Act, 2009 (Act No. XXXII of 2009) (with effect from 1st November, 2007).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2026-05-05-11-47-47-Schedule-II.pdf)

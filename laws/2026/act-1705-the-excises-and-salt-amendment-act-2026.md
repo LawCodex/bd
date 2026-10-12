@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-05-12-11-07-54-Act-No.-76-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1705.html"
 retrieved: 2026-10-12
 ---
@@ -40,3 +42,9 @@ retrieved: 2026-10-12
 ৩। (১) The Excises and Salt (Amendment) Ordinance, 2025 (Ordinance No. 2 of 2025) এতদ্দ্বারা রহিত করা হইল।
 
 (২) উক্তরূপ রহিতকরণ সত্ত্বেও রহিত অধ্যাদেশের অধীন কৃত কোনো কাজকর্ম বা গৃহীত কোনো ব্যবস্থা এই আইনের অধীন কৃত বা গৃহীত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [The Excises and Salt (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-05-12-11-07-54-Act-No.-76-of-2026.pdf)

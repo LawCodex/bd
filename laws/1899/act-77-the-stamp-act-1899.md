@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1899-01-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2022-07-18-11-25-48-77___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-77.html"
 retrieved: 2026-10-12
 ---
@@ -971,3 +973,9 @@ Provided that such shall not restrict the sale of ten poisha or five poisah adhe
 - <sup>26</sup> The words "Government may" were substituted, for the words and commas "Central Government, and the Provincial Government, may" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>27</sup> The words "The Government" were substituted for the words "Every Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>28</sup> The word "Bengali" was substituted for the words "the Principal Vernacular Languages of the territories administered by it" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2022-07-18-11-25-48-77___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1944-02-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-05-12-12-49-03-Excises-and-Salt-Act,-1944-(schedule-2026).pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-206.html"
 retrieved: 2026-10-12
 ---
@@ -795,3 +797,9 @@ Provided that the fees for the licensing of the manufacture and refining of salt
 - <sup>136</sup> The word “Board” was substituted for the words “National Board of Revenue” by section 5 of the Finance Act, 1979 (Act No. V of 1979)
 - <sup>137</sup> The words “ten thousand taka” were substituted for the words “two thousand taka” by section 5 of the Finance Ordinance, 1984 (Ordinance No. XLII of 1984)
 - <sup>138</sup> The full-stop (.) was substituted for the colon (:) and the proviso was omitted by section 3 of the Finance (1971-72) Order, 1972 (President’s Order No. 52 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2026-05-12-12-49-03-Excises-and-Salt-Act,-1944-(schedule-2026).pdf)

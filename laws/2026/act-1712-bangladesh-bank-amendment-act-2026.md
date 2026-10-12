@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-05-13-14-51-04-Act-No.-83-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1712.html"
 retrieved: 2026-10-12
 ---
@@ -30,3 +32,9 @@ retrieved: 2026-10-12
 #### ২. 127 of 1972 এর Article 10 এর সংশোধন
 
 ২। Bangladesh Bank Order, 1972 (President's Order No. 127 of 1972), এর Article 10 এর clause (5) এর প্রান্তস্থিত কোলন “:” চিহ্নের পরিবর্তে ফুলস্টপ "." চিহ্ন প্রতিস্থাপিত হইবে এবং Proviso বিলুপ্ত হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Bangladesh Bank (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-05-13-14-51-04-Act-No.-83-of-2026.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1959-10-03
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/296___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-296.html"
 retrieved: 2026-10-12
 ---
@@ -203,3 +205,9 @@ Provided that no such sale or transfer shall take place at a rate below the mark
 - <sup>6</sup> The words, comma, figures and brackets “Companies Act, 1994 (Act No. 18 of 1994)” were substituted for the words, comma, figures and brackets “Companies Act, 1913 (VII of 1913)” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>7</sup> The words, figures, comma and brackets “section 160 of the Companies Act, 1994 (Act No. 18 of 1994) ” were substituted for the words, figures, comma and brackets “section 87A of the Companies Act, 1913 (VII of 1913) ” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>8</sup> The words, figures, comma and brackets “section 212 of the Companies Act, 1994 (Act No. 18 of 1994)” were substituted for the words, figures, comma and brackets “section 144 of the Companies Act, 1913 (VII of 1913) ” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/296___Schedule.pdf)

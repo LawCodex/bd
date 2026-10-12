@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1961-07-01
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/309___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-309.html"
 retrieved: 2026-10-12
 ---
@@ -90,3 +92,9 @@ Provided that where the prescribed price of any petroleum product exceeds its fi
 - <sup>3</sup> The words, brackets and figure “or arrears thereof under sub-section (2)” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The words, comma, figures and brackets “Essential Commodities Act, 1957 (III of 1957)” were substituted for the words, comma, figures and brackets “Essential Supplies Act, 1957 (III of 1957)” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>5</sup> The words, figures, comma and brackets “Chapter V and Chapter VI of the Income-tax Ordinance, 1984 (Ord. No. XXXVI of 1984)” were substituted for the words, brackets, figures, and comma “sub-section (2) of section 10 of the Income-tax Act, 1922 (XI of 1922)” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/309___Schedule.pdf)

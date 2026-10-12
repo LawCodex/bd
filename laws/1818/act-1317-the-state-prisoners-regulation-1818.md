@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1818-04-07
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-11-16-15-48-55-APPENDIX.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1317.html"
 retrieved: 2026-10-12
 ---
@@ -106,3 +108,9 @@ Third.- In the cases mentioned in the preceding clause the Government will make 
 - <sup>5</sup> The word "Government" was replaced, for the words "Provincial Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
 - <sup>6</sup> The word "Government" was replaced, for the words "Provincial Government" by Article 8 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President's Order No. 48 of 1972).
 - <sup>7</sup> The word "Bangladesh" was substituted for the word "Pakistan" by Article 5 of the Bangladesh (Adaptation of Existing Lows) order, 1972 (President's Order No. 48 of 1972).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [APPENDIX](http://bdlaws.minlaw.gov.bd/upload/act/2020-11-16-15-48-55-APPENDIX.pdf)

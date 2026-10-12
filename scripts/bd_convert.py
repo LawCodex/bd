@@ -268,7 +268,7 @@ def main():
         fm += [f"type: {typ}", "jurisdiction: bd", f"language: {d['lang']}"]
         if d["date"]:
             fm.append(f"date: {d['date']}")
-        lapsed = re.search(r"কার্যকরতা লোপ পাইয়াছে|has ceased to have effect", d["body"][:3000])
+        lapsed = re.search(r"কার্যকরতা লোপ পাই(?:\u09df|\u09af\u09bc)াছে|has ceased to have effect", d["body"][:3000])
         fm.append("status: " + ("repealed" if lapsed else "in_force"))
         if lapsed:
             fm.append('status_note: "lapsed (Constitution, art. 93(2)), as noted by the source"')

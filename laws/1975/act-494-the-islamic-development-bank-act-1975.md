@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1975-07-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/494___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-494.html"
 retrieved: 2026-10-12
 ---
@@ -68,3 +70,9 @@ Provided that nothing in Article 59 of the Agreement shall be construed as-
 7. (1) The Islamic Development Bank Ordinance, 1975 (Ord. I of 1975), is hereby repealed.
 
 (2) Notwithstanding such repeal, anything done or any action taken under the said Ordinance shall be deemed to have been done or taken under the corresponding provisions of this Act.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/494___Schedule.pdf)

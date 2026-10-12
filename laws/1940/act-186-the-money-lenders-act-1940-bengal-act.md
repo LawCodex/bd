@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1940-08-01
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/186___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-186.html"
 retrieved: 2026-10-12
 ---
@@ -673,3 +675,9 @@ shall, where a specific penalty has been provided in this Act, be punishable und
 - <sup>16</sup> Sub-section (2A) was inserted by section 3 of the Bengal Money-Lenders (Amendment) Ordinance, 1969 (Ordinance No. VIII of 1969)
 - <sup>17</sup> The word “Bengal” was omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>18</sup> The word “Bengal” was omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/186___Schedule.pdf)

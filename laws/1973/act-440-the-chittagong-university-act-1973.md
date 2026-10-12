@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-10-04
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/440___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-440.html"
 retrieved: 2026-10-12
 ---
@@ -923,3 +925,9 @@ Provided that, in the case of dispute or doubt, the Chancellor shall determine w
 - <sup>12</sup> Clause (aa) was inserted by section 6 of the Chittagong University (Amendment) Act, 1999 (Act No. VIII of 1999)
 - <sup>13</sup> The words and brackets “Director (Planning and Development)” were substituted for the words “Planning Development Officer” by section 4 of the Universities Laws (Amendment) Act, 1987 (Act No. XXXVI of 1987)
 - <sup>14</sup> Section 64 was substituted by section 2 and the Schedule of the Universities Laws Amendment Ordinance, 1975 (Ordinance No. LXII of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/440___Schedule.pdf)

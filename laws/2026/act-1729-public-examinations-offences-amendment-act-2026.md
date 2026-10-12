@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-07-16
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-07-22-09-26-49-Act-No.-100-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1729.html"
 retrieved: 2026-10-12
 ---
@@ -104,3 +106,9 @@ Provided that no person shall be convicted of an offence under this section unle
 ১৩। উক্ত Act এর section 14 এর পর নিম্নরূপ নূতন, section 14A সন্নিবেশিত হইবে, যথা:-
 
 "14A. Rule making power.- The Government may, for carrying out the purposes of this Act, by notification in the official Gazette, make rules." |
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Public Examinations (Offences) (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-07-22-09-26-49-Act-No.-100-of-2026.pdf)

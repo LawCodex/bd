@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1872-07-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/25___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-25.html"
 retrieved: 2026-10-12
 ---
@@ -166,3 +168,9 @@ Provided that nothing in this section shall confer on any person any right to an
 - <sup>3</sup> The word "Bangladesh" was substituted, for the word "Pakistan" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> Section 13A was inserted by section 29 of the Birth, Deaths and Marriages Registration Act, 1886 (Act No. VI of 1886)
 - <sup>5</sup> The words, comma and figure "Succession Act, 1925" were substituted, for the words, comma and figure "Indian Succession Act, 1865" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/25___Schedule.pdf)

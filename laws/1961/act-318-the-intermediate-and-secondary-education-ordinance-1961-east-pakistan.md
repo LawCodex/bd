@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1961-09-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/318___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-318.html"
 retrieved: 2026-10-12
 ---
@@ -679,3 +681,9 @@ Provided that no quorum shall be necessary for a meeting adjourned for want of q
 - <sup>42</sup> The words and figures “sections 10 and 26” were substituted for the word and figure “section 10” by section 18 of the Intermediate and Secondary Education (Amendment) Ordinance, 1977 (Ordinance No. XVII of 1977)
 - <sup>43</sup> The word “it” was substituted for the word “him” by section 19 of the Intermediate and Secondary Education (Amendment) Ordinance, 1977 (Ordinance No. XVII of 1977)
 - <sup>44</sup> The words “President or the Government” were substituted for the words “Controlling Authority” by section 20 of the Intermediate and Secondary Education (Amendment) Ordinance, 1977 (Ordinance No. XVII of 1977)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/318___Schedule.pdf)

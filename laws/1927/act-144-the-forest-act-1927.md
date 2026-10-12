@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1927-09-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/144___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-144.html"
 retrieved: 2026-10-12
 ---
@@ -949,3 +951,9 @@ Provided that no such share shall be confiscated until the person entitled there
 - <sup>62</sup> The words "three months" were substituted, for the words "one month" by section 25 of the Forest (Amendment) Act, 1990 (Act No. VIII of 1990)
 - <sup>63</sup> The words "two thousand" were substituted, for the words "two hundred" by section 25 of the Forest (Amendment) Act, 1990 (Act No. VIII of 1990)
 - <sup>64</sup> The words, figures, brackets and comma "section 5(2) of the Acquisition and Requisition of Immovable Property Ordinance, 1982 (II of 1982)" were substituted, for the words, figures and comma "section 4 of the Land Acquisition Act, 1894" by section 26 of the Forest (Amendment) Act, 1990 (Act No. VIII of 1990)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/144___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-03-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/379___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-379.html"
 retrieved: 2026-10-12
 ---
@@ -253,3 +255,9 @@ Provided that no compensation shall be payable in respect of any assets which ha
 - <sup>4</sup> The words “three of the other Directors to be whole-time officers” were substituted for the words “one of the other Directors to be a whole-time officer” by section 2 of the Bangladesh Inland Water Transport Corporation (Amendment) Act, 1973 (Act No. XIII of 1973)
 - <sup>5</sup> The word “Directors” was substituted for the word “Director” by section 2 of the Bangladesh Inland Water Transport Corporation (Amendment) Act, 1973 (Act No. XIII of 1973)
 - <sup>6</sup> The words “and the liabilities of such company, firm or individual in respect of such assets determined under Article 9 of that Order shall be the liabilities of the Corporation” were inserted by section 2 of The Bangladesh Inland Water Transport Corporation (Amendment) Act, 1975 (Act No. XIX of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/379___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-05-17
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/386___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-386.html"
 retrieved: 2026-10-12
 ---
@@ -91,3 +93,9 @@ NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, 
 
 - <sup>1</sup> The words “ten thousand taka” were substituted for the words “one thousand takas” by section 2 of the Bangladesh Names and Emblems (Prevention of Unauthorised Use) (Amendment) Ordinance, 1985 (Ordinance No. XXXV of 1985)
 - <sup>2</sup> The words “five thousand taka” were substituted for the words “two hundred takas” by section 3 of the Bangladesh Names and Emblems (Prevention of Unauthorised Use) (Amendment) Ordinance, 1985 (Ordinance No. XXXV of 1985)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/386___Schedule.pdf)

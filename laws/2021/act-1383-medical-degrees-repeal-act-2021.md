@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2021-09-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2021-10-13-14-58-07-Act-No-18-of-2021.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1383.html"
 retrieved: 2026-10-12
 ---
@@ -38,3 +40,9 @@ retrieved: 2026-10-12
 (খ) জারীকৃত প্রজ্ঞাপন, প্রদত্ত আদেশ, নির্দেশ, অনুমোদন, যদি থাকে, তবে উহা সংশোধন বা বাতিল না হওয়া পর্যন্ত, এইরূপে কার্যকর থাকিবে যেন উক্ত Act রহিত হয় নাই; এবং
 
 (গ) দায়েরকৃত কোন মামলা বা কার্যধারা কোন আদালতে চলমান থাকিলে উহা এইরূপে নিষ্পত্তি করিতে হইবে যেন উক্ত Act রহিত হয় নাই।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Medical Degrees (Repeal) Act, 2021](http://bdlaws.minlaw.gov.bd/upload/act/2021-10-13-14-58-07-Act-No-18-of-2021.pdf)

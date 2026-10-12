@@ -6,6 +6,8 @@ type: order
 jurisdiction: bd
 language: en
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/410___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-410.html"
 retrieved: 2026-10-12
 ---
@@ -444,3 +446,9 @@ Provided that regulations made by a subsidiary Corporation shall be forwarded to
 
 - <sup>1</sup> Sub-clauses (a) and (b) were substituted by section 2 of the Bangladesh Insurance (Nationalisation) (Amendment) Order, 1972 (President's Order No. 133 of 1972)
 - <sup>2</sup> Clause (1A) was inserted by Article 2 of the Bangladesh Insurance (Nationalisation) (Amendment) Order, 1972 (President’s Order No. 133 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/410___Schedule.pdf)

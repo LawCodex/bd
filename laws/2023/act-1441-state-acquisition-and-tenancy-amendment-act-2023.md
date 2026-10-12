@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2023-07-11
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-07-23-12-01-48-Act-No-24-of-2023.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1441.html"
 retrieved: 2026-10-12
 ---
@@ -68,3 +70,9 @@ retrieved: 2026-10-12
 ৫। উক্ত Act এর section 145E এর পরিবর্তে নিম্নরূপ section 145E প্রতিস্থাপিত হইবে, যথা :—
 
 “145E. Finality of Tribunals decisions and orders.- Subject to the decisions and orders of the Land Survey Appellate Tribunal, the decisions and orders of the Land Survey Tribunal shall be final." ।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [State Acquisition and Tenancy (Amendment) Act, 2023](http://bdlaws.minlaw.gov.bd/upload/act/2023-07-23-12-01-48-Act-No-24-of-2023.pdf)

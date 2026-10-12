@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2023-07-09
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-07-16-14-20-38-Act--No-17-of-2023.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1434.html"
 retrieved: 2026-10-12
 ---
@@ -132,3 +134,9 @@ he shall then forthwith stop polling, and inform the nearest members of law enfo
 ১৪। উক্ত Order এর Article 91E এর clause (2) এর প্রান্তস্থিত “.” চিহ্নের পরিবর্তে “:” চিহ্ন প্রতিস্থাপিত হইবে এবং অতঃপর নিম্নবর্ণিত proviso সন্নিবেশিত হইবে, যথা:-
 
 "Provided that the candidate whose candidature has been cancelled under this clause shall not be eligible to be elected under Article 17."।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Representation of the People (Amendment) Act, 2023](http://bdlaws.minlaw.gov.bd/upload/act/2023-07-16-14-20-38-Act--No-17-of-2023.pdf)

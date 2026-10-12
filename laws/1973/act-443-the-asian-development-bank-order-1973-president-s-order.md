@@ -6,6 +6,8 @@ type: order
 jurisdiction: bd
 language: en
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/443___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-443.html"
 retrieved: 2026-10-12
 ---
@@ -81,3 +83,9 @@ Provided that nothing in Article 56 of the Agreement shall be construed as-
 #### 8.
 
 8. The Government may, by notification in the official Gazette, make rules for carrying out the purposes of this Order.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/443___Schedule.pdf)

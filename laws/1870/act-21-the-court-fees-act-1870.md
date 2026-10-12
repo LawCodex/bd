@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1870-03-11
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/21___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-21.html"
 retrieved: 2026-10-12
 ---
@@ -630,3 +632,9 @@ Provided that the proper Court-fee, where the value of the subject-matter exceed
 - <sup>35</sup> The word “Bangladesh” was replaced for the words “East Pakistan” by Article 5 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972).
 - <sup>36</sup> Sections 35A was inserted by section 4 of Ordinance, 1962 (Ordinance No. LII of 1962).
 - <sup>37</sup> Section 37 was added by section 5 of the Court Fees (Amendment) Act, 2016 (Act No. XIV of 2016).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/21___Schedule.pdf)

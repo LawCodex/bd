@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-05-03-09-10-24-Act-No.-64-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1693.html"
 retrieved: 2026-10-12
 ---
@@ -72,3 +74,9 @@ retrieved: 2026-10-12
 ৭। (১) Bangladesh House Building Finance Corporation (Amendment) Ordinance, 2026 (২০২৬ সনের ৩৫ নং অধ্যাদেশ) এতদ্দ্বারা রহিত করা হইল।
 
 (২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, রহিত অধ্যাদেশ দ্বারা সংশোধিত Bangladesh House Building Finance Corporation Order, 1973 (President's Order No. 7 of 1973) এর অধীন কৃত কোনো কাজ বা গৃহীত কোনো ব্যবস্থা এই আইন দ্বারা সংশোধিত উক্ত Order এর অধীন কৃত বা গৃহীত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Bangladesh House Building Finance Corporation (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-05-03-09-10-24-Act-No.-64-of-2026.pdf)

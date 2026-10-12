@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1961-09-08
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/310___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-310.html"
 retrieved: 2026-10-12
 ---
@@ -1785,3 +1787,9 @@ Provided that in the case of an officer so reported missing no action shall be t
 - <sup>42</sup> The words “the Government” were substituted for the words “that Government” by section 13 of the Navy (Amendment) Act, 2016 (Act No. XXVI of 2016).
 - <sup>43</sup> The word “sailors” was substituted for the word “ratings” by section 3(c) of the Navy (Amendment) Act, 2016 (Act No. XXVI of 2016).
 - <sup>44</sup> The word “sailors” was substituted for the word “ratings” by section 3(c) of the Navy (Amendment) Act, 2016 (Act No. XXVI of 2016).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/310___Schedule.pdf)

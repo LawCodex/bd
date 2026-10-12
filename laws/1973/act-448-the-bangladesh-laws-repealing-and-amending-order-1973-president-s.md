@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-02-19
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/448___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-448.html"
 retrieved: 2026-10-12
 ---
@@ -42,3 +44,9 @@ NOW, THEREFORE, in pursuance of paragraph 3 of the Fourth Schedule to the Consti
 #### 4.
 
 4. Any application or appeal pending before the Board of Revenue or a Commissioner of Division under any law mentioned in the Schedule on the date of coming into force of this Order shall stand transferred to the authority or Court empowered to dispose of it according to the amended provision as indicated in the fourth column of the Schedule.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/448___Schedule.pdf)

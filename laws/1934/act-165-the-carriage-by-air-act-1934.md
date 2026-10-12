@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1934-08-19
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/165___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-165.html"
 retrieved: 2026-10-12
 ---
@@ -65,3 +67,9 @@ AND WHEREAS it is also expedient to make provision for applying the rules contai
 - <sup>2</sup> The word "Bangladesh" was substituted, for the words "any part of Pakistan" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> The word "Taka" was substituted, for the word "rupees" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The words "Supreme Court" were substituted, for the words "High Court" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/165___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1869-02-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/20___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-20.html"
 retrieved: 2026-10-12
 ---
@@ -550,3 +552,9 @@ All such rules, alterations and additions shall be published in the official Gaz
 - <sup>9</sup> The words “in that Province” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>10</sup> Second paragraph was omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>11</sup> The words, comma and figure “the Succession Act, 1925” were substituted, for the words, comma and figure “the Indian Succession Act, 1865” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/20___Schedule.pdf)

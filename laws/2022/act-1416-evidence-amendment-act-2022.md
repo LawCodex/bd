@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2022-11-20
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2022-12-04-17-54-57-Act-No-20-of-2022.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1416.html"
 retrieved: 2026-10-12
 ---
@@ -274,3 +276,9 @@ Provided further that such question can only be asked with the permission of the
 #### ২১. Act No. I of 1872 এর section 155 এর সংশোধন
 
 ২১। উক্ত Act এর section 155 এর sub-section (4) বিলুপ্ত হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Evidence (Amendment) Act, 2022](http://bdlaws.minlaw.gov.bd/upload/act/2022-12-04-17-54-57-Act-No-20-of-2022.pdf)

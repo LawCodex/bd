@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1948-02-17
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/230___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-230.html"
 retrieved: 2026-10-12
 ---
@@ -109,3 +111,9 @@ NOW, THEREFORE, in exercise of the powers conferred by section 42 of the Governm
 - <sup>14</sup> The Explanation was omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>15</sup> Sub-section (3) was substituted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>16</sup> Sections 7 and 8 were substituted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/230___Schedule.pdf)

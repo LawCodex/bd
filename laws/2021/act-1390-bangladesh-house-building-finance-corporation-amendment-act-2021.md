@@ -15,7 +15,7 @@ retrieved: 2026-10-12
 
 (২০২১ সনের ২৫ নং আইন)
 
-****\*\*\*****সংশোধনীসমূহ****মূল****আইন (Bangladesh House Building Finance Corporation Order, 1973 (P.O. No. 7 of 1973))****এ****অন্তর্ভূক্ত****করা****হয়েছে****\*\*\***
+\*\*\*সংশোধনীসমূহমূলআইন (Bangladesh House Building Finance Corporation Order, 1973 (P.O. No. 7 of 1973))এঅন্তর্ভূক্তকরাহয়েছে\*\*\***
 
 Bangladesh House Building Finance Corporation Order, 1973 এর অধিকতর সংশোধনকল্পে প্রণীত আইন**
 

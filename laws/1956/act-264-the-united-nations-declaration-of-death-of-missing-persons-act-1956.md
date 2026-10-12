@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1956-04-11
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/264___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-264.html"
 retrieved: 2026-10-12
 ---
@@ -52,3 +54,9 @@ It is hereby enacted as follows:-
 ## Footnotes
 
 - <sup>1</sup> Throughout this Act, the words “Bangladesh” and “Government” were substituted for the words “Pakistan” and “Central Government” respectively by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/264___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-07-31
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/407___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-407.html"
 retrieved: 2026-10-12
 ---
@@ -163,3 +165,9 @@ Provided that nothing in Section 9 of Article IX of the Fund Agreement or in Sec
 - <sup>10</sup> The words “Special Drawing Rights Department” were substituted for the words “Special Drawing Account” by section 6 of the International Financial Organisations (Amendment) Ordinance, 1976 (Ordinance No. XCIV of 1976)
 - <sup>11</sup> The word and figure “Article XIX” were substituted for the word and figure “Article XXV” by section 7 of the International Financial Organisations (Amendment) Ordinance, 1976 (Ordinance No. XCIV of 1976)
 - <sup>12</sup> The words, figures, brackets, letters and commas “Article XXI (b) of, and paragraph 5(d) of Schedule D to, the Fund” were substituted for the words, figures, brackets and letter “Article XXVII(b) of the Fund” by section 8 of the International Financial Organisations (Amendment) Ordinance, 1976 (Ordinance No. XCIV of 1976)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/407___Schedule.pdf)

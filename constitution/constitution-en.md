@@ -5,6 +5,9 @@ type: constitution
 jurisdiction: bd
 language: en
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2022-04-18-13-27-54-Scheudle__367.pdf"
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-10-14-17-08-19-Appendix.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-367.html"
 retrieved: 2026-10-12
 ---
@@ -1853,3 +1856,10 @@ Provided that in the event of conflict between the Bengali and the English text,
 - <sup>104</sup> Inserted by the Constitution (Fifteenth Amendment) Act, 2011 (Act XIV of 2011), section 46(c).
 - <sup>105</sup> The semi-colon (;) was substituted for the full stop (.) by section 16 of the Constitution (Ninth Amendment) Act, 1989 (Act No. XXXVIII of 1989)
 - <sup>106</sup> The expression “the vice president” was omitted by section 23 of the Constitution (Twelfth Amendment) Act, 1991 (Act No. XXVIII of 1991)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2022-04-18-13-27-54-Scheudle__367.pdf)
+- [Appendix](http://bdlaws.minlaw.gov.bd/upload/act/2020-10-14-17-08-19-Appendix.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1908-12-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/89___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-89.html"
 retrieved: 2026-10-12
 ---
@@ -687,3 +689,9 @@ The Government shall pay any authority, on whom a requisition has been made, suc
 - <sup>16</sup> The words "any law" were substituted, for the words, commas and figures "the Merchant Shipping Act, 1894, or any other Statute now or hereafter to be in force, or by any proclamation made or to be made in pursuance of any such Statute, or by any of the regulations" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>17</sup> The words "of the Government" were substituted, for the commas and words ", in case of a cantonment authority or the port authority of a major port, of the Central Government, and in other cases, of the Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>18</sup> Sections 68A and 68B were inserted by section 11 of the Indian Ports (Amendment) Act, 1916 (Act No. VI of 1916)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/89___Schedule.pdf)

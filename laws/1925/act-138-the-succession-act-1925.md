@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1925-09-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/138___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-138.html"
 retrieved: 2026-10-12
 ---
@@ -3606,3 +3608,9 @@ Provided that an appeal from any such order of an inferior Court as is mentioned
 - <sup>45</sup> Paragraphs second and third of section 380 were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>46</sup> The words and commas "to a resident within an Acceding State by a District Judge of that State, or," were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>47</sup> The words "Judge or" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/138___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1947-11-07
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/222___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-222.html"
 retrieved: 2026-10-12
 ---
@@ -159,3 +161,9 @@ Provided that where-
 
 - <sup>1</sup> Throughout this Act, the words “Bangladesh” and “Government” were substituted for the words “Pakistan” and “Central Government” respectively by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> The words “in a Province” were omitted by section 4 of the Bangladesh Laws (Revision and Declaration) (Second Amendment) Act, 2000 (Act No. XL of 2000)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/222___Schedule.pdf)

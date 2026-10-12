@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-11-15
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/419___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-419.html"
 retrieved: 2026-10-12
 ---
@@ -44,3 +46,9 @@ NOW, THEREFORE, in pursuance of the Proclamation of Independence of Bangladesh, 
 (b) all assets of whatsoever nature of the Corporation shall vest in the Government;
 
 (c) the Government shall consider any representations which may be made to it by or on behalf of any person claiming that the Corporation or any predecessor-in-title of the Corporation had incurred any debt, liability or obligation to that person and shall have power to make ex-gratia payment of compensation to that person in respect of such claim if and to the extent that the same shall to it appear to be just.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/419___Schedule.pdf)

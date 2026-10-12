@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-19-12-39-06-Act-No-09-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1638.html"
 retrieved: 2026-10-12
 ---
@@ -38,3 +40,9 @@ retrieved: 2026-10-12
 ৩। (১) Bangladesh Law Officers (Amendment) Ordinance, 2024 (২০২৪ সনের ১৭ নং অধ্যাদেশ), অতঃপর উক্ত অধ্যাদেশ বলিয়া উল্লিখিত, এতদ্দ্বারা রহিত করা হইল।
 
 (২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, উক্ত অধ্যাদেশের অধীন কৃত কোনো কার্য, গৃহীত কোনো ব্যবস্থা বা সূচিত কোনো কার্যধারা এই আইনের অধীন কৃত, গৃহীত বা সূচিত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Bangladesh Law Officers (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-19-12-39-06-Act-No-09-of-2026.pdf)

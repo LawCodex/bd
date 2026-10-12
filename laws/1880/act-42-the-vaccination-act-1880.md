@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1880-05-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/42___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-42.html"
 retrieved: 2026-10-12
 ---
@@ -328,3 +330,9 @@ All such rules or orders shall be published in the official Gazette.
 - <sup>1</sup> Throughout this Act, except otherwise provided, the words "Bangladesh", "Government" and "Taka" were substituted, for the words "East Pakistan", "Provincial Government" and "rupees" respectively by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> The word "Bengal" was omitted by section 3 and 2nd schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/42___Schedule.pdf)

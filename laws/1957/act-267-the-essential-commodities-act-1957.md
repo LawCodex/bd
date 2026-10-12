@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1957-03-06
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/267___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-267.html"
 retrieved: 2026-10-12
 ---
@@ -154,3 +156,9 @@ he shall be punishable with imprisonment for a term which may extend to three ye
 - <sup>15</sup> The word “Pakistan” was omitted by Article 6 of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972)
 - <sup>16</sup> The word “Government” was substituted for the words “Provincial Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>17</sup> The word “taka” was substituted for the word “rupees” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/267___Schedule.pdf)

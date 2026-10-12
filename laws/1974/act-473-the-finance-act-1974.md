@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1974-06-29
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/473___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-473.html"
 retrieved: 2026-10-12
 ---
@@ -351,3 +353,9 @@ Provided that in calculating for the purposes of this sub-section, the amount of
 
 - <sup>1</sup> The words and figures “cess under section 22” were substituted for the words, figures and commas “tax or toll leviable under sections 14, 15, 16, 17, 20, 21, and 22 ” by section 10 of the Finance Act, 1975 (Act No. III of 1975)
 - <sup>2</sup> Sub-section (1) was substituted by section 10 of the Finance Act, 1975 (Act No. III of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/473___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1940-04-15
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/189___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-189.html"
 retrieved: 2026-10-12
 ---
@@ -207,3 +209,9 @@ with effect from such date as may be specified in the notification the Committee
 - <sup>4</sup> Sections 5A, 5B and 5C were inserted by section 8 of the Agricultural Produce Cess (Amendment) Act, 1950 (Act No. XII of 1950)
 - <sup>5</sup> The word “Parliament” was substituted for the words “the Central Legislature” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>6</sup> Sections 6A, 6B, 6C and 6D were inserted by section 10 of the Agricultural Produce Cess (Amendment) Act, 1950 (Act No. XII of 1950)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/189___Schedule.pdf)

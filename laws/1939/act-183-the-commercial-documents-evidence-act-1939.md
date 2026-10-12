@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1939-09-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/183___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-183.html"
 retrieved: 2026-10-12
 ---
@@ -50,3 +52,9 @@ that any document purporting to be a document included in Part I or Part II of t
 ## Footnotes
 
 - <sup>1</sup> Throughout this Act, the word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/183___Schedule.pdf)

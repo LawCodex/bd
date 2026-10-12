@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-06-08
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/394___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-394.html"
 retrieved: 2026-10-12
 ---
@@ -28,3 +30,9 @@ NOW, THEREFORE, in pursuance of Proclamation of Independence of Bangladesh, read
 #### 2.
 
 2. The taxation laws specified in the Schedule shall, until repealed or amended by competent authority, have effect and be deemed to have at all material times had effect subject to the modifications directed by the Schedule.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/394___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1950-05-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/231___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-231.html"
 retrieved: 2026-10-12
 ---
@@ -66,3 +68,9 @@ It is hereby enacted as follows:-
 - <sup>1</sup> Throughout this Act, the words “Government” and “Bangladesh” were substituted for the words “Central Government” or “Appropriate Government” and “Pakistan” respectively by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> Clause (c) was omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>3</sup> Section 3A was inserted by section 2 of the Development of Industries (Federal Control) Amendment Act, 1950 (Act No. 44 of 1950)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/231___Schedule.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1960-11-01
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-11-11-21-41-১১.-অপরাধী-প্রবেশন-অধ্যাদেশ,-১৯৬০.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-302.html"
 retrieved: 2026-10-12
 ---
@@ -221,3 +223,9 @@ Provided that where an offender, being not less than eighteen years of age at th
 - <sup>6</sup> The words “imprisonment for life” were substituted for the words “or transportation for life” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>7</sup> The word “taka” was substituted for the word “rupees” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>8</sup> Section 17 was substituted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-11-11-21-41-১১.-অপরাধী-প্রবেশন-অধ্যাদেশ,-১৯৬০.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1913-02-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/97___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-97.html"
 retrieved: 2026-10-12
 ---
@@ -315,3 +317,9 @@ Provided that, in the case of any transfer under this section, the Official Trus
 - <sup>10</sup> The words “for East Pakistan” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>11</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>12</sup> Section 30A was inserted by the Official Trustees (Bengal Amendment) Act, 1941 (Act No. I of 1941), section 4
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/97___Schedule.pdf)

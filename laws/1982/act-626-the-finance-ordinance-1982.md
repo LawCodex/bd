@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1982-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/626___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-626.html"
 retrieved: 2026-10-12
 ---
@@ -136,3 +138,9 @@ Provided that where in respect of the acquisition of the capital asset of a new 
 #### 3. Amendment of the First Schedule, Ben. Act I of 1932
 
 3. In the Motor Vehicles Tax Act, 1932 (Ben. Act I of 1932), for the First Schedule the following shall be substituted, namely-
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/626___Schedule.pdf)

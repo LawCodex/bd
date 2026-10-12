@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1876-03-29
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/35___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-35.html"
 retrieved: 2026-10-12
 ---
@@ -787,3 +789,9 @@ The Government may, from time to time, alter or cancel any rules so made.
 - <sup>8</sup> The words "East Bengal" were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>9</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>10</sup> The words "Penal Code" were substituted, for the words "Pakistan Penal Code" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/35___Schedule.pdf)

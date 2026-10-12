@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1984-06-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/675___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-675.html"
 retrieved: 2026-10-12
 ---
@@ -324,3 +326,9 @@ gency against its procurement programme in foreign exchange
 (6) For the purpose of making deduction of tax under Chapter VII of the Income Tax Ordinance, 1984 (XXXVI of 1984), the rates specified in the Third Schedule shall apply as respects the year beginning on the first day of July, 1984, and ending on the thirtieth day of June, 1985.
 
 (7) For the purposes of this section and of the rates of tax imposed thereby, the expression “total income” means total income as determined for the purpose of income tax in accordance with the provisions of the Income Tax Ordinance, 1984 (XXXVI of 1984).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/675___Schedule.pdf)

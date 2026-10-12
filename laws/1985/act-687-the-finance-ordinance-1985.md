@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1985-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/687___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-687.html"
 retrieved: 2026-10-12
 ---
@@ -268,3 +270,9 @@ Provided that in calculating for the purpose of this sub-section, the amount of 
 | (b) Nothing contained in clause (*a*) shall apply in respect of the following goods or classes of goods, namely:- | |---| | (i) tea; | | (ii) raw jute; | | (iii) jute manufactures; | | (iv) raw hides and skin and wet-blue leather; | | (v) such other goods as may be notified by the National Board of Revenue from time to time. | | (c) The National Board of Revenue may make rules providing for the computation of profits and the tax attributable to export sales and for such other matters as may be necessary to give effect to the provisions of this sub-section. | | (5) In making any assessment for the year beginning on the first day of July, 1985, where the total income of an assessee other than a company not registered in Bangladesh, includes any profits and gains derived from plying of passenger buses and passenger launches, a rebate shall be allowed at the rate of twenty-five *per cent* of the income tax attributable to profits and gains derived from such passenger buses and passenger launches. |
 
 | (6) In cases to which the Second Schedule to the Income Tax Ordinance, 1984 (XXXVI of 1984), applies, the tax chargeable shall be determined as provided in that Schedule but with reference to the rates imposed by sub-section (*1*), or in accordance, where applicable, with the provisions of sub-section (2). | |---| | (7) For the purpose of making deduction of tax under Chapter VII of the Income Tax Ordinance, 1984 (XXXVI of 1984), the rates specified in the Second Schedule shall apply as respects the year beginning on the first day of July, 1985, and ending on the thirtieth day of June, 1986. | | (8) For the purposes of this section and of the rates of tax imposed thereby, the expression "total income” means total income as determined for the purpose of income tax in accordance with the provisions of the Income Tax Ordinance, 1984 (XXXVI of 1984). |
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/687___Schedule.pdf)

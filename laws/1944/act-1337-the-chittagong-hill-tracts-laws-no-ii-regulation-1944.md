@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1944-08-31
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-11-19-12-53-55-1337___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1337.html"
 retrieved: 2026-10-12
 ---
@@ -28,3 +30,9 @@ It is hereby enacted as follows:-
 #### 2. Application of certain enactments to the Chittagong Hill-tracts
 
 2. The enactments specified in the Schedule with the modification therein set forth shall apply to the Chittagong Hill-tracts.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Schedule](http://bdlaws.minlaw.gov.bd/upload/act/2020-11-19-12-53-55-1337___Schedule.pdf)

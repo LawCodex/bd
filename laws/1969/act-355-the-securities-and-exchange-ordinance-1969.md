@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1969-06-28
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-12-50-44-১৪.-সিকিউরিটিজ-এন্ড-এক্সচেঞ্জ-অধ্যাদেশ,-১৯৬৯.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-355.html"
 retrieved: 2026-10-12
 ---
@@ -587,3 +589,9 @@ Provided further that, at least two weeks time shall be allowed for submission o
 - <sup>42</sup> Section 32A was added by section 12 of the Securities and Exchange (Amendment) Act, 2012 (Act No. XLVI of 2012).
 - <sup>43</sup> Section 33 was substituted by section 7 of the Securities and Exchange (Amendment) Act, 2000 (Act No. XXXVII of 2000).
 - <sup>44</sup> The words “jobber or dealer” were substituted for the word “jobber” by section 13 of the Securities and Exchange (Amendment) Act, 2012 (Act No. XLVI of 2012).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-12-50-44-১৪.-সিকিউরিটিজ-এন্ড-এক্সচেঞ্জ-অধ্যাদেশ,-১৯৬৯.pdf)

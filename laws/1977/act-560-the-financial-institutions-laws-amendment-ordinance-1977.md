@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1977-12-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/560___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-560.html"
 retrieved: 2026-10-12
 ---
@@ -32,3 +34,9 @@ NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and 
 #### 3. Savings
 
 3. Any appointment of a General Manager in the Sangstha, Bank or Corporation established by or under a law mentioned in column I of the Schedule made by the Government at any time before the promulgation of this Ordinance shall be deemed to have been made under the relevant provision of such law, as amended by this Ordinance, and every such appointment shall have effect accordingly.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/560___Schedule.pdf)

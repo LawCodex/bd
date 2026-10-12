@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1908-08-07
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-02-14-13-52-42-88___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-88.html"
 retrieved: 2026-10-12
 ---
@@ -317,3 +319,9 @@ A sues for a declaration that he is entitled to a right of way over B's land. A 
 - <sup>4</sup> The words “or local” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>5</sup> The words “or local” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
 - <sup>6</sup> The words “or local” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2023-02-14-13-52-42-88___Schedule.pdf)

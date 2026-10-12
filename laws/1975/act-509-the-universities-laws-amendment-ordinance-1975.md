@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1975-12-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/509___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-509.html"
 retrieved: 2026-10-12
 ---
@@ -30,3 +32,9 @@ NOW, THEREFORE, in pursuance of the Proclamations of the 20th August, 1975, and 
 #### 2. Amendment of the Universities laws
 
 2. The laws relating to the Universities specified in the Schedule shall be amended to the extent and in the manner specified in the fourth column thereof.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/509___Schedule.pdf)

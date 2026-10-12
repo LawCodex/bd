@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1952-05-13
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/248___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-248.html"
 retrieved: 2026-10-12
 ---
@@ -1672,3 +1674,9 @@ Explanation.- In this section the term “property” includes in the case of pr
 - <sup>61</sup> Section 177, was omitted by section 4(n) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
 - <sup>62</sup> Section 178 was omitted by section 4(n) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
 - <sup>63</sup> Section 179 was omitted by section 4(n) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/248___Schedule.pdf)

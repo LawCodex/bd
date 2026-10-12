@@ -6,7 +6,8 @@ type: act
 jurisdiction: bd
 language: en
 date: 1873-01-28
-status: in_force
+status: repealed
+status_note: "lapsed (Constitution, art. 93(2)), as noted by the source"
 source: "http://bdlaws.minlaw.gov.bd/act-details-28.html"
 retrieved: 2026-10-12
 ---

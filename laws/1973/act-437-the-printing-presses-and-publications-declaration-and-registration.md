@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-09-22
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/437___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-437.html"
 retrieved: 2026-10-12
 ---
@@ -391,3 +393,9 @@ Explanation.- For the purposes of this section,-
 - <sup>16</sup> The words “five thousand” were substituted for the words “two thousand” by section 8 of the Printing Presses and Publications (Declaration and Registration) (Amendment) Act, 1991 (Act No. VIII of 1991).
 - <sup>17</sup> The words “five thousand” were substituted for the words “two thousand” by section 9 of the Printing Presses and Publications (Declaration and Registration) (Amendment) Act, 1991 (Act No. VIII of 1991)
 - <sup>18</sup> The words “twenty thousand” were substituted for the words “ten thousand” by section 10 of the Printing Presses and Publications (Declaration and Registration) (Amendment) Act, 1991 (Act No. VIII of 1991)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/437___Schedule.pdf)

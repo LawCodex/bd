@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2021-12-07
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2021-12-26-10-05-38-Act-No-29-of-2021.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1394.html"
 retrieved: 2026-10-12
 ---
@@ -521,11 +523,11 @@ Provided that this provision shall not apply to any break or injury caused by le
 
 **28. Power to investigate offence.-**Notwithstanding anything contained in CrPC, for the purpose of this Act, the Government may, by notification in the official Gazette, confer on any gazetted officer of Bangladesh Navy or Bangladesh Coast Guard the power to arrest of any person and to investigate the offence under this Act.
 
-**2****9****. Evidentiary value of pictures, electronic records, etc**.- If any member from Bangladesh Navy or Bangladesh Coast Guard or any other person captures or receives a video or still photo or records any conversation in the tape-recorder or cell phone or captures any satellite image during occurrence of offences or preparation of such offences or assistance to such offences, these videos, photos or tapes or disks or satellite images shall be admissible as evidence in the trial on proof of authenticity.
+**29. Evidentiary value of pictures, electronic records, etc**.- If any member from Bangladesh Navy or Bangladesh Coast Guard or any other person captures or receives a video or still photo or records any conversation in the tape-recorder or cell phone or captures any satellite image during occurrence of offences or preparation of such offences or assistance to such offences, these videos, photos or tapes or disks or satellite images shall be admissible as evidence in the trial on proof of authenticity.
 
 **30. Cognizance of offence**.- The Tribunal shall not take cognizance of an offence without the written complaint made by any person authorized by the Government in this behalf.
 
-**31****. Provisions as to bail**.- Notwithstanding anything contained in the CrPC, the Tribunal shall not grant bail under this Act unless-
+**31. Provisions as to bail**.- Notwithstanding anything contained in the CrPC, the Tribunal shall not grant bail under this Act unless-
 
 (1) the State is allowed hearing on order for bail;
 
@@ -535,16 +537,22 @@ Provided that this provision shall not apply to any break or injury caused by le
 
 (b) the offence is not that serious in nature and the punishment shall not be severe if the accused is found guilty.
 
-**3****2****. Time limit for disposal of a case**.- (1) The Tribunal shall dispose the case within 180 (one hundred and eighty) days from the date of filing of the case.
+**32. Time limit for disposal of a case**.- (1) The Tribunal shall dispose the case within 180 (one hundred and eighty) days from the date of filing of the case.
 
 (2) If the Tribunal fails to dispose the case within the time specified in sub-section (1), it may extend the time for maximum 90 (ninety) days by recording the reasons thereof in writing.
 
 (3) If the Tribunal fails to dispose case within the extended time under sub-section (2), it shall make a report recording the reasons thereof to the Supreme Court within 10 (ten) days from the date of such failure.
 
-**3****3****. Power of the Tribunal**.- Notwithstanding anything contained in the CrPC, the Tribunal may impose fine upon the convict as is specified for the offence.
+**33. Power of the Tribunal**.- Notwithstanding anything contained in the CrPC, the Tribunal may impose fine upon the convict as is specified for the offence.
 
-**3****4****. Appeal**.- An appeal may be preferred to the High Court Division of the Supreme Court against an order, judgement or conviction of the Tribunal within 30 (thirty) days from the date of such order, judgement or conviction.
+**34. Appeal**.- An appeal may be preferred to the High Court Division of the Supreme Court against an order, judgement or conviction of the Tribunal within 30 (thirty) days from the date of such order, judgement or conviction.
 
-**3****5****. Power to make rules**.- For the purposes of this Act, the Government may, by notification in the official Gazette, make rules.
+**35. Power to make rules**.- For the purposes of this Act, the Government may, by notification in the official Gazette, make rules.
 
 **36. Power to Publish Authentic Bangla Text.-**The Government may, by notification in the official gazette, publish an Authentic Bangla Text of this Act.”।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Territorial Waters and Maritime Zones (Amendment) Act, 2021](http://bdlaws.minlaw.gov.bd/upload/act/2021-12-26-10-05-38-Act-No-29-of-2021.pdf)

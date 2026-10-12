@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1968-05-29
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/352___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-352.html"
 retrieved: 2026-10-12
 ---
@@ -43,3 +45,9 @@ It is hereby enacted as follows:-
 
 - <sup>1</sup> Throughout this Act, the word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> The word “Government” was substituted for the words “Central Government” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/352___Schedule.pdf)

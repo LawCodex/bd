@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1985-10-28
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/692___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-692.html"
 retrieved: 2026-10-12
 ---
@@ -882,3 +884,9 @@ Provided that all such cases shall be subject to the provisions of section 403 o
 #### 115. Amendment of certain laws
 
 115. The laws specified in column 3 of Schedule III shall be amended in the manner specified in column 4 of that Schedule.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/692___Schedule.pdf)

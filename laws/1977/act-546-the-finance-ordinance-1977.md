@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1977-06-27
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/546___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-546.html"
 retrieved: 2026-10-12
 ---
@@ -458,3 +460,9 @@ Provided that in calculating for the purposes of this sub-section, the amount of
 ## Footnotes
 
 - <sup>1</sup> Sub-clauses (a) and (b) were substituted by section 2 of the Finance (Amendment) Ordinance, 1977 (Ordinance No. XXVII of 1977)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/546___Schedule.pdf)

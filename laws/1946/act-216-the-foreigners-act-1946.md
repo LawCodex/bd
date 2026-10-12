@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1946-11-23
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2025-01-29-15-58-04-115.-ফরেনার্স-অ্যাক্ট,-১৯৪৭.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-216.html"
 retrieved: 2026-10-12
 ---
@@ -199,3 +201,9 @@ Provided that the Government, either of its own motion or on an application by t
 
 - <sup>1</sup> The Proviso was substituted for the former proviso by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> Sub-section (4) was omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2025-01-29-15-58-04-115.-ফরেনার্স-অ্যাক্ট,-১৯৪৭.pdf)

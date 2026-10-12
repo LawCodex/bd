@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1974-07-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-15-48-১৫.-মুসলিম-বিবাহ-ও-তালাক-নিবন্ধন-আইন,-১৯৭৪.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-476.html"
 retrieved: 2026-10-12
 ---
@@ -142,3 +144,9 @@ Provided that no such order shall be made unless the Nikah Registrar has been gi
 - <sup>1</sup> The colon (:) was substituted for the full stop (.) and the proviso was inserted by section 2 of the Muslim Marriages and Divorces (Registration) (Amendment) Ordinance, 1982 (Ordinance No. XLIX of 1982)
 - <sup>2</sup> Section 5 was substituted by section 2 of the Muslim Marriages and Divorces (Registration) (Amendment) Act, 2005 (Act No. IX of 2005)
 - <sup>3</sup> Section 5A was inserted by section 3 of the Muslim Marriages and Divorces (Registration) (Amendment) Act, 2005 (Act No. IX of 2005)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-07-25-13-15-48-১৫.-মুসলিম-বিবাহ-ও-তালাক-নিবন্ধন-আইন,-১৯৭৪.pdf)

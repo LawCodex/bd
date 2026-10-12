@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-01-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-10-13-13-05-17-1310___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1310.html"
 retrieved: 2026-10-12
 ---
@@ -210,3 +212,9 @@ Provided that any claim preferred or objection made within the period allowed by
 ## Footnotes
 
 - <sup>1</sup> The entry of the Bangladesh Collaborators (Special Tribunals) Order, 1972 (P.O. No. 8 of 1972) was crossed-out from the FIRST SCHEDULE of the Constitution by the Constitution (Fifth Amendment) Act, 1979 (Act 1 of 1979) and the Constitution (Fifth Amendment) Act, 1979 was declared void and non est by the Appellate Division of the Supreme Court of Bangladesh in Civil Petition for leave to Appeal Numbers 1044 and 1045 of 2009, and subsequently the entry "The Bangladesh Collaborators (Special Tribunals) Order, 1972 (P.O. No. 8 of 1972)" was inserted in the FIRST SCHEDULE of the Constitution by section 47of the Constitution (Fifteenth Amendment) Act, 2011 (Act 14 of 2011).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Schedule](http://bdlaws.minlaw.gov.bd/upload/act/2020-10-13-13-05-17-1310___Schedule.pdf)

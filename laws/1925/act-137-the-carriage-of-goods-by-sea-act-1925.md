@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1925-09-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/137___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-137.html"
 retrieved: 2026-10-12
 ---
@@ -69,3 +71,9 @@ have effect as though the said Article referred to goods any class instead of to
 
 - <sup>1</sup> Throughout this Act, except otherwise provided, the words “Bangladesh” and "Government" were substituted, for the words “Pakistan” and “Central Government” respectively by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> The words and comma "in India, Ceylon or Pakistan" were substituted, for the words "in India or Ceylon" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/137___Schedule.pdf)

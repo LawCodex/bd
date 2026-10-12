@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-03-26
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/377___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-377.html"
 retrieved: 2026-10-12
 ---
@@ -477,3 +479,9 @@ Provided that any dissolution of an existing bank shall preclude such bank there
 - <sup>26</sup> Article 27A was inserted by section 2 of the Bangladesh Banks (Nationalisation) (Amendment) Ordinance, 1983 (Ordinance No. XLVII of 1983)
 - <sup>27</sup> The words and comma “Chairman, Managing Director” were substituted for the words “Managing Director” by section 2 and the Schedule of the Banks and Financial Institutions Laws Amendment Act, 1980 (Act No. IX of 1980)
 - <sup>28</sup> The colon (:) was substituted for the full stop (.) and the proviso was inserted by Article 2 of the Bangladesh Banks (Nationalisation) (Second Amendment) Order, 1972 (President’s Order No. 132 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/377___Schedule.pdf)

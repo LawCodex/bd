@@ -6,6 +6,8 @@ type: act
 jurisdiction: bd
 language: en
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-09-13-09-24-01-Act-No.-105-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1735.html"
 retrieved: 2026-10-12
 ---
@@ -57,3 +59,9 @@ or
 (b) make such inquiry as he considers necessary; and
 
 (c) be satisfied that the application is made in good faith."।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Transfer of Property (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-09-13-09-24-01-Act-No.-105-of-2026.pdf)

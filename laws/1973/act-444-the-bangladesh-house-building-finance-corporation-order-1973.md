@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-02-03
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/444___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-444.html"
 retrieved: 2026-10-12
 ---
@@ -538,3 +540,9 @@ Provided that where the land on which the house is proposed to construct, repair
 - <sup>49</sup> Article 37A was inserted by section 28 of Bangladesh House Building Finance Corporation (Amendment) Act, 2021 (Act No. XXV of 2021).
 - <sup>50</sup> The word and comma “shall,” was substituted for the word “shall” by section 13 of the Bangladesh House Building Finance Corporation (Amendment) Act, 1975 (Act No. XXVII of 1975)
 - <sup>51</sup> Article 38A was inserted by section 29 of Bangladesh House Building Finance Corporation (Amendment) Act, 2021 (Act No. XXV of 2021).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/444___Schedule.pdf)

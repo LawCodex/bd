@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1980-03-29
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/596___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-596.html"
 retrieved: 2026-10-12
 ---
@@ -28,3 +30,9 @@ It is hereby enacted as follows:-
 #### 2. Amendment of certain laws relating to Banks and Financial Institutions
 
 2. The laws mentioned in column 1 of the Schedule shall be amended in the manner indicated in column 2 thereof.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/596___Schedule.pdf)

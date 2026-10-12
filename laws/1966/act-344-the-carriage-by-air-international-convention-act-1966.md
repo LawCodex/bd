@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1966-06-18
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/344___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-344.html"
 retrieved: 2026-10-12
 ---
@@ -71,3 +73,9 @@ It is hereby enacted as follows:-
 
 - <sup>1</sup> Throughout this Act, the words “Bangladesh” and “Government” were substituted for the words “Pakistan” and “Central Government” respectively by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>2</sup> The words “High Court Division” were substituted for the words “High Court” by Article 7(1)(a) of the Bangladesh (Adaptation of Existing Laws) Order, 1972 (President’s Order No. 48 of 1972) as amended by the Bangladesh Adaptation of Existing Laws (Amendment) Order, 1972 (President’s Order No. 150 of 1972)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/344___Schedule.pdf)

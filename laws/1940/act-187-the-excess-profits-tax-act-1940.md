@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1940-04-06
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/187___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-187.html"
 retrieved: 2026-10-12
 ---
@@ -623,3 +625,9 @@ Provided further that, where any change has taken place in the persons carrying 
 - <sup>22</sup> The words “Penal Code” were substituted for the words “Pakistan Penal Code” by Section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>23</sup> The words “State or” were omitted by Section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>24</sup> The words “State or” were omitted by Section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/187___Schedule.pdf)

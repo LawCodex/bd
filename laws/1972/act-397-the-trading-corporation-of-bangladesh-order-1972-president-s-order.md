@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1972-06-14
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2023-01-15-13-52-44-62.Trading-Corporation-of-Bangladesh-Order,-1972-.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-397.html"
 retrieved: 2026-10-12
 ---
@@ -216,3 +218,9 @@ Provided that an officer or other employee so transferred shall have the option 
 - <sup>9</sup> “clause (a), (aa) and (b)” শব্দগুলি বন্ধনীগুলি ও বর্ণগুলি “clause (a) and (b)” শব্দগুলি বন্ধনীগুলি ও বর্ণগুলির পরিবর্তে Trading Corporation of Bangladesh (Amendment) Act, 2015 (২০১৫ সনের ০৪ নং আইন) এর ৭ (গ) ধারাবলে প্রতিস্থাপিত।
 - <sup>10</sup> “as approved by the board” শব্দগুলি “banks” শব্দের পর Trading Corporation of Bangladesh (Amendment) Act, 2015 (২০১৫ সনের ০৪ নং আইন) এর ৮ ধারাবলে সংযোজিত।
 - <sup>11</sup> “Board” শব্দ “Government” শব্দের পরিবর্তে Trading Corporation of Bangladesh (Amendment) Act, 2015 (২০১৫ সনের ০৪ নং আইন) এর ৯ ধারাবলে প্রতিস্থাপিত।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2023-01-15-13-52-44-62.Trading-Corporation-of-Bangladesh-Order,-1972-.pdf)

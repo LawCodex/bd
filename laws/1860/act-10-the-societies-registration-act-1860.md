@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1860-05-21
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/10___schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-10.html"
 retrieved: 2026-10-12
 ---
@@ -140,3 +142,9 @@ Charitable societies, societies established for the promotion of science, litera
 - <sup>3</sup> The words “whenever the Government” were substituted, for the words “whenever any Government” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>4</sup> The words “of the province of registration” were omitted by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>5</sup> Section 19 was substituted, for section 19 by section 4 of the Societies Registration (Amendment) Ordinance, 1978 (Ordinance No. XXXIII of 1978).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/10___schedule.pdf)

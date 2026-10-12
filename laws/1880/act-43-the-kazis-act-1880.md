@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1880-07-09
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/43___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-43.html"
 retrieved: 2026-10-12
 ---
@@ -63,3 +65,9 @@ When any Kazi is suspended or removed under section 2, his naib or naibs (if any
 - <sup>6</sup> The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>7</sup> The word "Government" was substituted, for the words "Provincial Government" by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>8</sup> The word "Government" was substituted, for the words "Provincial Government" by the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973), section 3 and 2nd Schedule
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/43___Schedule.pdf)

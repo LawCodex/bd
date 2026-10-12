@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1983-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/642___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-642.html"
 retrieved: 2026-10-12
 ---
@@ -5372,3 +5374,9 @@ Provided that nothing herein contained shall prevent any person employed by a cl
 - <sup>19</sup> The words “fifty thousand” were substituted for the words “five thousand” by section 6 of the Bangladesh Merchant Shipping (Amendment) Act, 2004 (Act No. VIII of 2004).
 - <sup>20</sup> The words “to the shipping master who shall thereupon make and certify a copy of the entry prior to departure from the port” were substituted for the words “to the Bangladesh Consular Officer who shall thereupon make and certify a copy of the entry” by section 7 of the Bangladesh Merchant Shipping (Amendment) Act, 2004 (Act No. VIII of 2004
 - <sup>21</sup> Sub-section (2) was substituted by section 7 of the Bangladesh Merchant Shipping (Amendment) Act, 2004 (Act No. VIII of 2004
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/642___Schedule.pdf)

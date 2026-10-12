@@ -6,6 +6,8 @@ type: act
 jurisdiction: bd
 language: en
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2021-10-05-10-53-33-Act-No-1-of-2021.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1366.html"
 retrieved: 2026-10-12
 ---
@@ -16,7 +18,7 @@ retrieved: 2026-10-12
 
 **\*\*\*Amendments are incorporated in the original law (Intermediate and Secondary Education Ordinance, 1961)\*\*\*
 
-**Intermediate and Secondary Education Ordinance, 1961 এরঅধিকতর****সংশোধনকল্পে****প্রণীত****আইন****
+**Intermediate and Secondary Education Ordinance, 1961 এরঅধিকতরসংশোধনকল্পেপ্রণীতআইন
 
 যেহেতু নিম্নবর্ণিত উদ্দেশ্য পূরণকল্পে Intermediate and Secondary Education Ordinance, 1961 (Ordinance No. XXXIII of 1961) এর অধিকতর সংশোধন সমীচীন ও প্রয়োজনীয়;
 
@@ -33,3 +35,9 @@ retrieved: 2026-10-12
 ২। Intermediate and Secondary Education Ordinance, 1961 (Ordinance No. XXXIII of 1961) এর section 18 এর sub-section (2) এর পর নিম্নরূপ sub-srction (2A) সন্নিবেশিত হইবে, যথাঃ-
 
 “(2A) Notwithstanding anything contained in clauses (vi), (vii) and (viii) of sub-section (2), if it is not possible to hold and conduct examinations at the end of the Intermediate and Secondary stage or any other stage thereof due to pandemic, epidemic, Act of God or for any other inevitable circumstances as determined by the government from time to time, the government may, by an order in the official Gazette, issue instructions for assessment and grant of certificates without holding and conducting examination or holding and conducting examination with short syllabus, in the manner prescribed in that Gazette, for the students in a particular year.”।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Intermediate and Secondary Education (Amendment) Act, 2021](http://bdlaws.minlaw.gov.bd/upload/act/2021-10-05-10-53-33-Act-No-1-of-2021.pdf)

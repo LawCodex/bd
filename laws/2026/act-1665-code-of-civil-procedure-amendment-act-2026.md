@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 2026-04-10
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2026-04-23-09-21-08-Act-No.-36-of-2026.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1665.html"
 retrieved: 2026-10-12
 ---
@@ -146,3 +148,9 @@ Provided further that where documents are filed along with the affidavit and the
 ১৬। (১) Code of Civil Procedure (Amendment) Ordinance, 2025 (২০২৫ সনের ১৮ নং অধ্যাদেশ), অতঃপর উক্ত অধ্যাদেশ বলিয়া উল্লিখিত, এতদ্দ্বারা রহিত করা হইল।
 
 (২) উপ-ধারা (১) এর অধীন রহিতকরণ সত্ত্বেও, উক্ত অধ্যাদেশের অধীন কৃত কোনো কার্য, গৃহীত কোনো ব্যবস্থা বা সূচিত কোনো কার্যধারা এই আইনের অধীন কৃত, গৃহীত বা সূচিত হইয়াছে বলিয়া গণ্য হইবে।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Code of Civil Procedure (Amendment) Act, 2026](http://bdlaws.minlaw.gov.bd/upload/act/2026-04-23-09-21-08-Act-No.-36-of-2026.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1952-12-14
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2025-01-29-09-59-02-SRO-No.-88-2024.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-251.html"
 retrieved: 2026-10-12
 ---
@@ -130,3 +132,9 @@ It is hereby enacted as follows:-
 - <sup>9</sup> The words “the provision” were substituted for the words “any of the provisions” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>10</sup> The commas and words “, or, when the arrest is made in a State, of the corresponding law for the time being in force in that State,” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>11</sup> The words “or the Provincial Government or the Government of the State concerned” were omitted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2025-01-29-09-59-02-SRO-No.-88-2024.pdf)

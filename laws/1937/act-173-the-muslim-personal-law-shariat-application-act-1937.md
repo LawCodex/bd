@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1937-10-07
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-06-26-12-30-45-৭.-মুসলিম-ব্যক্তিগত-আইন-(শরিয়ত)-প্রয়োগ-আইন,-১৯৩৭.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-173.html"
 retrieved: 2026-10-12
 ---
@@ -70,3 +72,9 @@ may by declaration in the prescribed form and filed before the prescribed author
 ## Footnotes
 
 - <sup>1</sup> Sub-section (2) was substituted by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-06-26-12-30-45-৭.-মুসলিম-ব্যক্তিগত-আইন-(শরিয়ত)-প্রয়োগ-আইন,-১৯৩৭.pdf)

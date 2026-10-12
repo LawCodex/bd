@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1981-06-30
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/617___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-617.html"
 retrieved: 2026-10-12
 ---
@@ -314,3 +316,9 @@ Provided that in calculating for the purposes of this sub-section, the amount of
 | | (c) where the export sales exceed 20 per cent but do not exceed 30 per cent of the total sales: | 40 per cent of the income-tax attributable to export sales. | |---|---|---| | | (d) where the export sales exceed 30 per cent of the total sales: | 50 per cent of the income-tax attributable to export sales. |
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="80%"> <tr> <td><p>(b) Nothing contained in clause (a) shall apply in respect of the following goods or class of goods, namely:-</p></td> <td><p> </p></td> </tr> <tr> <td><p> </p></td> <td><p> </p></td> </tr> <tr> <td><p>(i) tea;</p></td> <td><p> </p></td> </tr> <tr> <td><p> </p></td> <td><p> </p></td> </tr> <tr> <td><p>(ii) raw jute;</p></td> <td><p> </p></td> </tr> <tr> <td><p> </p></td> <td><p> </p></td> </tr> <tr> <td>(iii) jute manufacture;</td> <td> </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td colspan="2"> <table> <tr> <td><p>(iv) raw hides and skin and wet-blue leather;</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(v) such other goods as may be notified by the National Board of Revenue form time to time.</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p>(c) The National Board of Revenue may make rules providing for the computation of profits and the tax attributable to export sales and for such other matters as may be necessary to give effect to the provisions of this sub-section.</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p> (5) In cases to which section 17 of the Income-tax Act, 1922 (XI of 1922), applies the tax chargeable shall be determined as provided in that section but with reference to the rates imposed by sub-section (1), and in accordance, where applicable, with the provisions of sub-section (2).</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p> (6) For the purpose of making deduction of tax under section 18 of the Income-tax Act, 1922 (XI of 1922), the rates specified in the Third Schedule shall apply as respects the year beginning on the first day of July, 1981, and ending on the thirtieth day of June, 1982.</p></td> </tr> <tr> <td><p> </p></td> </tr> <tr> <td><p> (7) For the purposes of this section and of the rates of tax imposed thereby, the expression “total income” means total income as determined for the purposes of income-tax in accordance with the provisions of the Income-tax Act, 1922 (XI of 1922).</p></td> </tr> <tr> <td><p> </p></td> </tr> </table> <p> </p></td> </tr> </table>
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/617___Schedule.pdf)

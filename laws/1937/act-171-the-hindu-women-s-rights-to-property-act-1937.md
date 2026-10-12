@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1937-04-14
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2024-06-26-12-28-08-৮.-সম্পত্তিতে-হিন্দু-মহিলার-অধিকার-আইন,-১৯৩৭.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-171.html"
 retrieved: 2026-10-12
 ---
@@ -56,3 +58,9 @@ Provided further that the same provision shall apply mutatis mutandis to the wid
 ## Footnotes
 
 - <sup>1</sup> The word “Bangladesh” was substituted for the word “Pakistan” by section 3 and the Second Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [Authentic Bangla Text](http://bdlaws.minlaw.gov.bd/upload/act/2024-06-26-12-28-08-৮.-সম্পত্তিতে-হিন্দু-মহিলার-অধিকার-আইন,-১৯৩৭.pdf)

@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1986-07-05
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/701___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-701.html"
 retrieved: 2026-10-12
 ---
@@ -172,3 +174,9 @@ Provided that a worker who has completed the sixtyth year of his age on or befor
 - <sup>1</sup> The word “and” was omitted by section 2 of the Public Corporations (Management Co-ordination) (Amendment) Act, 1994 (Act No. XVII of 1994).
 - <sup>2</sup> The semi-colon (;) was substituted for the full-stop (.) and thereafter clause (e) was added by section 2 of the Public Corporations (Management Co-ordination) (Amendment) Act, 1994 (Act No. XVII of 1994).
 - <sup>3</sup> Section 14A was inserted by section 3 of the Public Corporations (Management Co-ordination) (Amendment) Act, 1994 (Act No. XVII of 1994).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/701___Schedule.pdf)

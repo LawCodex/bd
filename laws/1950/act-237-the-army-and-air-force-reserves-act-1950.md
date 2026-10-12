@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1950-04-19
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/237___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-237.html"
 retrieved: 2026-10-12
 ---
@@ -89,3 +91,9 @@ WHEREAS it is expedient to consolidate and amend the law relating to the governm
 - <sup>2</sup> The words “Indian Army Act, 1911 or the Pakistan” were omitted by section 3(c)(i) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
 - <sup>3</sup> The words “Indian Air Force Act, 1932 or the Pakistan” were omitted by section 3(c)(ii) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
 - <sup>4</sup> Section 7 was substituted by section 3(d) of প্রতিরক্ষা কর্মবিভাগ (কতিপয় আইন সংশোধন) আইন, ২০১৬ (২০১৬ সনের ১৫ নং আইন)।
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/237___Schedule.pdf)

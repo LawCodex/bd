@@ -6,6 +6,8 @@ type: regulation
 jurisdiction: bd
 language: en
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/2020-11-18-12-13-49-THE-SCHEDULE.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-1326.html"
 retrieved: 2026-10-12
 ---
@@ -27,3 +29,9 @@ It is hereby enacted as follows:-
 #### Application of certain enactments to the Chittagong Hill-tracts
 
 **2.**The enactments specified in the Schedule shall apply to the Chittagong Hill-tracts.
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/2020-11-18-12-13-49-THE-SCHEDULE.pdf)

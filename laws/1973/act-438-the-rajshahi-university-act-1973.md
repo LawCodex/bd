@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1973-09-25
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/438___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-438.html"
 retrieved: 2026-10-12
 ---
@@ -831,3 +833,9 @@ Provided that, before making any such order or taking any such action, the Chanc
 - <sup>8</sup> Clause (b) was substituted by section 5 of the Rajshahi University (Amendment) Act, 1999 (Act No. IX of 1999)
 - <sup>9</sup> Clause (aa) was inserted by section 6 of the Rajshahi University (Amendment) Act, 1999 (Act No. IX of 1999)
 - <sup>10</sup> Section 54 was substituted by section 2 and the Schedule of the Universities Laws Amendment Ordinance, 1975 (Ordinance No. LXII of 1975)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/438___Schedule.pdf)

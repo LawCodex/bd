@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1975-07-12
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/487___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-487.html"
 retrieved: 2026-10-12
 ---
@@ -142,3 +144,9 @@ Provided that the President may extend this period of four months with prior int
 - <sup>11</sup> The word “Speaker” was substituted for the word “Vice-President” by section 2 of the President’s (Remuneration and Privileges)(Amendment) Act, 2003 (Act No. XXXVII of 2003)
 - <sup>12</sup> The word “spouse” was substituted for the word “wife” by section 6(a) of The President’s (Remuneration and Privileges) (Amendment) Act, 2010 (Act. No XVII of 2010) (With effect from 1st July, 2010).
 - <sup>13</sup> The word “spouse” was substituted for the word “wife” by section 6(b) of The President’s (Remuneration and Privileges) (Amendment) Act, 2010 (Act. No XVII of 2010) (With effect from 1st July, 2010).
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/487___Schedule.pdf)

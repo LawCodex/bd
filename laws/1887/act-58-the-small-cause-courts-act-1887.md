@@ -7,6 +7,8 @@ jurisdiction: bd
 language: en
 date: 1887-02-24
 status: in_force
+attachments:
+  - "http://bdlaws.minlaw.gov.bd/upload/act/58___Schedule.pdf"
 source: "http://bdlaws.minlaw.gov.bd/act-details-58.html"
 retrieved: 2026-10-12
 ---
@@ -286,3 +288,9 @@ the documents mentioned in <sup>18</sup>[Order XXI, rule 6 of the Code of Civil 
 - <sup>17</sup> Section 28A was inserted by section 4 of the Provincial Small Cause Courts (Amendment) Ordinance, 1962 (Ordinance No. LI of 1962)
 - <sup>18</sup> The words, letter, commas and figures “Order XXI, rule 6 of the Code of Civil Procedure, 1908,” were substituted, for the words and figure “section 224 of the Code of Civil Procedure” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
 - <sup>19</sup> The words, comma and figures “Code of Civil Procedure, 1908,” were substituted, for the words “Code of Civil Procedure” by section 3 and 2nd Schedule of the Bangladesh Laws (Revision And Declaration) Act, 1973 (Act No. VIII of 1973)
+
+---
+
+Schedules / appendices published as separate files by the source:
+
+- [SCHEDULE](http://bdlaws.minlaw.gov.bd/upload/act/58___Schedule.pdf)
